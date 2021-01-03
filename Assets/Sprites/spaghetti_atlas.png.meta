@@ -1,0 +1,5495 @@
+fileFormatVersion: 2
+guid: 5dc8641e94c659b49af2961406e71899
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2609996904586159642
+    second: spaghetti_atlas_0
+  - first:
+      213: -6324408434132577004
+    second: spaghetti_atlas_1
+  - first:
+      213: 2257355558651230536
+    second: spaghetti_atlas_2
+  - first:
+      213: -3756108558190337359
+    second: spaghetti_atlas_3
+  - first:
+      213: -2641605352156124745
+    second: spaghetti_atlas_4
+  - first:
+      213: 3801779960369566164
+    second: spaghetti_atlas_5
+  - first:
+      213: -4760145818987056271
+    second: spaghetti_atlas_6
+  - first:
+      213: 5514530701953319153
+    second: spaghetti_atlas_7
+  - first:
+      213: 2695320749463497830
+    second: spaghetti_atlas_8
+  - first:
+      213: 1323998248633689597
+    second: spaghetti_atlas_9
+  - first:
+      213: -7146573363185922880
+    second: spaghetti_atlas_10
+  - first:
+      213: 4458618281835992038
+    second: spaghetti_atlas_11
+  - first:
+      213: -675866355648533885
+    second: spaghetti_atlas_12
+  - first:
+      213: 5688693822632977253
+    second: spaghetti_atlas_13
+  - first:
+      213: 3942692326483062007
+    second: spaghetti_atlas_14
+  - first:
+      213: -5183212837535348870
+    second: spaghetti_atlas_15
+  - first:
+      213: 6890315707713839518
+    second: spaghetti_atlas_16
+  - first:
+      213: 4440533040649838664
+    second: spaghetti_atlas_17
+  - first:
+      213: -1277810785851914509
+    second: spaghetti_atlas_18
+  - first:
+      213: 2477996975896448192
+    second: spaghetti_atlas_19
+  - first:
+      213: 2449237102090008045
+    second: spaghetti_atlas_20
+  - first:
+      213: 7141876073370408880
+    second: spaghetti_atlas_21
+  - first:
+      213: 998071295612506712
+    second: spaghetti_atlas_22
+  - first:
+      213: -1271117424488697833
+    second: spaghetti_atlas_23
+  - first:
+      213: -7064875442125853503
+    second: spaghetti_atlas_24
+  - first:
+      213: -364072228295738772
+    second: spaghetti_atlas_25
+  - first:
+      213: -2965282030569047598
+    second: spaghetti_atlas_26
+  - first:
+      213: -5218466961568775057
+    second: spaghetti_atlas_27
+  - first:
+      213: -1693360331738051848
+    second: spaghetti_atlas_28
+  - first:
+      213: 1068832548058848603
+    second: spaghetti_atlas_29
+  - first:
+      213: 6020989897382575623
+    second: spaghetti_atlas_30
+  - first:
+      213: 7208773662334963065
+    second: spaghetti_atlas_31
+  - first:
+      213: 866019433450005313
+    second: spaghetti_atlas_32
+  - first:
+      213: -487964582324432497
+    second: spaghetti_atlas_33
+  - first:
+      213: 2727058096262332695
+    second: spaghetti_atlas_34
+  - first:
+      213: 4690195075482565497
+    second: spaghetti_atlas_35
+  - first:
+      213: 2976346044901333935
+    second: spaghetti_atlas_36
+  - first:
+      213: 862914050858240319
+    second: spaghetti_atlas_37
+  - first:
+      213: 8261171200266237742
+    second: spaghetti_atlas_38
+  - first:
+      213: 3100349841699863244
+    second: spaghetti_atlas_39
+  - first:
+      213: -6809296706581563754
+    second: spaghetti_atlas_40
+  - first:
+      213: 2539004591684568587
+    second: spaghetti_atlas_41
+  - first:
+      213: -8590143602026688040
+    second: spaghetti_atlas_42
+  - first:
+      213: -4928107144066956700
+    second: spaghetti_atlas_43
+  - first:
+      213: -8397602897222111733
+    second: spaghetti_atlas_44
+  - first:
+      213: -7715541315942635833
+    second: spaghetti_atlas_45
+  - first:
+      213: 7996255073698195523
+    second: spaghetti_atlas_46
+  - first:
+      213: -8213840392369348553
+    second: spaghetti_atlas_47
+  - first:
+      213: 8819594403193971664
+    second: spaghetti_atlas_48
+  - first:
+      213: -1377213300729967059
+    second: spaghetti_atlas_49
+  - first:
+      213: 8396067901775609076
+    second: spaghetti_atlas_50
+  - first:
+      213: 7495408311567619007
+    second: spaghetti_atlas_51
+  - first:
+      213: 7962889843522654857
+    second: spaghetti_atlas_52
+  - first:
+      213: -5276037521949105668
+    second: spaghetti_atlas_53
+  - first:
+      213: -3738399493235853413
+    second: spaghetti_atlas_54
+  - first:
+      213: 8484439339186018563
+    second: spaghetti_atlas_55
+  - first:
+      213: -5729440211006493664
+    second: spaghetti_atlas_56
+  - first:
+      213: -1007158638760682247
+    second: spaghetti_atlas_57
+  - first:
+      213: 202084931903519923
+    second: spaghetti_atlas_58
+  - first:
+      213: -409604075332108980
+    second: spaghetti_atlas_59
+  - first:
+      213: -8643419088154476241
+    second: spaghetti_atlas_60
+  - first:
+      213: -2926259944620652161
+    second: spaghetti_atlas_61
+  - first:
+      213: -9045748900674774857
+    second: spaghetti_atlas_62
+  - first:
+      213: 5481053425900196328
+    second: spaghetti_atlas_63
+  - first:
+      213: 5172946761262600139
+    second: spaghetti_atlas_64
+  - first:
+      213: -3939023306687736015
+    second: spaghetti_atlas_65
+  - first:
+      213: 3470507414085024095
+    second: spaghetti_atlas_66
+  - first:
+      213: -7364092006891698855
+    second: spaghetti_atlas_67
+  - first:
+      213: -8726775340238772692
+    second: spaghetti_atlas_68
+  - first:
+      213: -5021423242352283027
+    second: spaghetti_atlas_69
+  - first:
+      213: 7115163349311207638
+    second: spaghetti_atlas_70
+  - first:
+      213: -2741445898088273039
+    second: spaghetti_atlas_71
+  - first:
+      213: 1571733255847447035
+    second: spaghetti_atlas_72
+  - first:
+      213: 8062422062063444863
+    second: spaghetti_atlas_73
+  - first:
+      213: -8417664438944933015
+    second: spaghetti_atlas_74
+  - first:
+      213: -1509258843732748125
+    second: spaghetti_atlas_75
+  - first:
+      213: 390808149166527520
+    second: spaghetti_atlas_76
+  - first:
+      213: -9160126974386749561
+    second: spaghetti_atlas_77
+  - first:
+      213: -2539370820668754405
+    second: spaghetti_atlas_78
+  - first:
+      213: -7482614997068064476
+    second: spaghetti_atlas_79
+  - first:
+      213: 1003251548725566669
+    second: spaghetti_atlas_80
+  - first:
+      213: -1894924801203777352
+    second: spaghetti_atlas_81
+  - first:
+      213: -3729101358972093961
+    second: spaghetti_atlas_82
+  - first:
+      213: -7060595144412913508
+    second: spaghetti_atlas_83
+  - first:
+      213: 451485854778589853
+    second: spaghetti_atlas_84
+  - first:
+      213: 5079441904737987733
+    second: spaghetti_atlas_85
+  - first:
+      213: 54572895453399210
+    second: spaghetti_atlas_86
+  - first:
+      213: -6543782056677581004
+    second: spaghetti_atlas_87
+  - first:
+      213: -5134567958893468511
+    second: spaghetti_atlas_88
+  - first:
+      213: -2474268674113729838
+    second: spaghetti_atlas_89
+  - first:
+      213: -2347212845765413327
+    second: spaghetti_atlas_90
+  - first:
+      213: -6023334786804971241
+    second: spaghetti_atlas_91
+  - first:
+      213: -4218268229946954788
+    second: spaghetti_atlas_92
+  - first:
+      213: 8397413180859250363
+    second: spaghetti_atlas_93
+  - first:
+      213: 837419053236760402
+    second: spaghetti_atlas_94
+  - first:
+      213: -7781881393507862131
+    second: spaghetti_atlas_95
+  - first:
+      213: -305265006996917045
+    second: spaghetti_atlas_96
+  - first:
+      213: -8799516850751616474
+    second: spaghetti_atlas_97
+  - first:
+      213: -1128824460530925517
+    second: spaghetti_atlas_98
+  - first:
+      213: 6899202604662967746
+    second: spaghetti_atlas_99
+  - first:
+      213: -6960348787422864445
+    second: spaghetti_atlas_100
+  - first:
+      213: -220405658597931309
+    second: spaghetti_atlas_101
+  - first:
+      213: -625711776775621718
+    second: spaghetti_atlas_102
+  - first:
+      213: 5635016400108619720
+    second: spaghetti_atlas_103
+  - first:
+      213: -4519234982433365547
+    second: spaghetti_atlas_104
+  - first:
+      213: 2453731547661603591
+    second: spaghetti_atlas_105
+  - first:
+      213: 1131943986528347377
+    second: spaghetti_atlas_106
+  - first:
+      213: 9071506638776402714
+    second: spaghetti_atlas_107
+  - first:
+      213: -6991951387722615853
+    second: spaghetti_atlas_108
+  - first:
+      213: -3735418128709046889
+    second: spaghetti_atlas_109
+  - first:
+      213: -5182725337817492343
+    second: spaghetti_atlas_110
+  - first:
+      213: -7237051328085283103
+    second: spaghetti_atlas_111
+  - first:
+      213: -3567626228089271920
+    second: spaghetti_atlas_112
+  - first:
+      213: 5123377973269489473
+    second: spaghetti_atlas_113
+  - first:
+      213: 2282159679987007071
+    second: spaghetti_atlas_114
+  - first:
+      213: -116952566736546139
+    second: spaghetti_atlas_115
+  - first:
+      213: 2239710727968806557
+    second: spaghetti_atlas_116
+  - first:
+      213: -7588329028787382874
+    second: spaghetti_atlas_117
+  - first:
+      213: -7258376496645211577
+    second: spaghetti_atlas_118
+  - first:
+      213: 1553936584017621918
+    second: spaghetti_atlas_119
+  - first:
+      213: 3077426722801275316
+    second: spaghetti_atlas_120
+  - first:
+      213: -8602481419780779443
+    second: spaghetti_atlas_121
+  - first:
+      213: 7203048994718838738
+    second: spaghetti_atlas_122
+  - first:
+      213: 834271731333490967
+    second: spaghetti_atlas_123
+  - first:
+      213: 6728939306180419690
+    second: spaghetti_atlas_124
+  - first:
+      213: 4701589848266552802
+    second: spaghetti_atlas_125
+  - first:
+      213: -6871412745027610147
+    second: spaghetti_atlas_126
+  - first:
+      213: -5895323191754674915
+    second: spaghetti_atlas_127
+  - first:
+      213: 4937128670720413172
+    second: spaghetti_atlas_128
+  - first:
+      213: 8197989777308113681
+    second: spaghetti_atlas_129
+  - first:
+      213: 7529485492387257302
+    second: spaghetti_atlas_130
+  - first:
+      213: 3490183882212503036
+    second: spaghetti_atlas_131
+  - first:
+      213: -6094286184977178252
+    second: spaghetti_atlas_132
+  - first:
+      213: 3467072453949653075
+    second: spaghetti_atlas_133
+  - first:
+      213: -2476199416660096377
+    second: spaghetti_atlas_134
+  - first:
+      213: 4626834254114556015
+    second: spaghetti_atlas_135
+  - first:
+      213: 4526954683215667339
+    second: spaghetti_atlas_136
+  - first:
+      213: -4644607496621487565
+    second: spaghetti_atlas_137
+  - first:
+      213: -4449036977200541152
+    second: spaghetti_atlas_138
+  - first:
+      213: -389939254012221172
+    second: spaghetti_atlas_139
+  - first:
+      213: -980579477180420046
+    second: spaghetti_atlas_140
+  - first:
+      213: -1717583315043182612
+    second: spaghetti_atlas_141
+  - first:
+      213: 918210869052042734
+    second: spaghetti_atlas_142
+  - first:
+      213: 9026674627144826490
+    second: spaghetti_atlas_143
+  - first:
+      213: 6023418841776660961
+    second: spaghetti_atlas_144
+  - first:
+      213: -4920866467658207756
+    second: spaghetti_atlas_145
+  - first:
+      213: 3999472167633338883
+    second: spaghetti_atlas_146
+  - first:
+      213: -6248190945948932584
+    second: spaghetti_atlas_147
+  - first:
+      213: -402334960195482852
+    second: spaghetti_atlas_148
+  - first:
+      213: -4304578061264209350
+    second: spaghetti_atlas_149
+  - first:
+      213: 4468413657048369997
+    second: spaghetti_atlas_150
+  - first:
+      213: 4308133281949340950
+    second: spaghetti_atlas_151
+  - first:
+      213: 2542708038753940391
+    second: spaghetti_atlas_152
+  - first:
+      213: -5477948510066387271
+    second: spaghetti_atlas_153
+  - first:
+      213: -1832660019476662887
+    second: spaghetti_atlas_154
+  - first:
+      213: 8647337488482107606
+    second: spaghetti_atlas_155
+  - first:
+      213: 8799605572642587116
+    second: spaghetti_atlas_156
+  - first:
+      213: 1822002707656938263
+    second: spaghetti_atlas_157
+  - first:
+      213: -3354097968942278742
+    second: spaghetti_atlas_158
+  - first:
+      213: -4007856190478478128
+    second: spaghetti_atlas_159
+  - first:
+      213: -8057556800512214959
+    second: spaghetti_atlas_160
+  - first:
+      213: -2959198813233138510
+    second: spaghetti_atlas_161
+  - first:
+      213: -2770868156901358128
+    second: spaghetti_atlas_162
+  - first:
+      213: -5364206449063978637
+    second: spaghetti_atlas_163
+  - first:
+      213: 4964387165173053539
+    second: spaghetti_atlas_164
+  - first:
+      213: 8637727742815836106
+    second: spaghetti_atlas_165
+  - first:
+      213: -2292595109527770054
+    second: spaghetti_atlas_166
+  - first:
+      213: 1134702038709453069
+    second: spaghetti_atlas_167
+  - first:
+      213: -6614586023269295684
+    second: spaghetti_atlas_168
+  - first:
+      213: -1746921445570784541
+    second: spaghetti_atlas_169
+  - first:
+      213: 653961127852773816
+    second: spaghetti_atlas_170
+  - first:
+      213: -8873477525715780422
+    second: spaghetti_atlas_171
+  - first:
+      213: -1678177653357913911
+    second: spaghetti_atlas_172
+  - first:
+      213: -3970751693405698336
+    second: spaghetti_atlas_173
+  - first:
+      213: -5077743516512909427
+    second: spaghetti_atlas_174
+  - first:
+      213: -1201032030401161329
+    second: spaghetti_atlas_175
+  - first:
+      213: 4863046348786992941
+    second: spaghetti_atlas_176
+  - first:
+      213: 1631981551934754563
+    second: spaghetti_atlas_177
+  - first:
+      213: -4114273074364459422
+    second: spaghetti_atlas_178
+  - first:
+      213: 3447706418560308997
+    second: spaghetti_atlas_179
+  - first:
+      213: 6450844017832654676
+    second: spaghetti_atlas_180
+  - first:
+      213: 985510398637729616
+    second: spaghetti_atlas_181
+  - first:
+      213: -1228966544384593224
+    second: spaghetti_atlas_182
+  - first:
+      213: 2450757457482013330
+    second: spaghetti_atlas_183
+  - first:
+      213: 1062923657852271696
+    second: spaghetti_atlas_184
+  - first:
+      213: -2552260551044621060
+    second: spaghetti_atlas_185
+  - first:
+      213: -1751025900832202986
+    second: spaghetti_atlas_186
+  - first:
+      213: 6157913358699745602
+    second: spaghetti_atlas_187
+  - first:
+      213: -1390548840407797562
+    second: spaghetti_atlas_188
+  - first:
+      213: -2412429238432842988
+    second: spaghetti_atlas_189
+  - first:
+      213: -6075112649999562105
+    second: spaghetti_atlas_190
+  - first:
+      213: -2189652288888346921
+    second: spaghetti_atlas_191
+  - first:
+      213: -2482301929857582614
+    second: spaghetti_atlas_192
+  - first:
+      213: 7044129909265666646
+    second: spaghetti_atlas_193
+  - first:
+      213: -4806148569626225137
+    second: spaghetti_atlas_194
+  - first:
+      213: 5367368712982585735
+    second: spaghetti_atlas_195
+  - first:
+      213: 8267938681391387272
+    second: spaghetti_atlas_196
+  - first:
+      213: -8051565000715345992
+    second: spaghetti_atlas_197
+  - first:
+      213: 2722173985333710652
+    second: spaghetti_atlas_198
+  - first:
+      213: -2935680463104239355
+    second: spaghetti_atlas_199
+  - first:
+      213: 1554638973714467684
+    second: spaghetti_atlas_200
+  - first:
+      213: 847356485389812307
+    second: spaghetti_atlas_201
+  - first:
+      213: -9112343412160782712
+    second: spaghetti_atlas_202
+  - first:
+      213: 6295500877915775200
+    second: spaghetti_atlas_203
+  - first:
+      213: 284533032515928891
+    second: spaghetti_atlas_204
+  - first:
+      213: -2709147430181760341
+    second: spaghetti_atlas_205
+  - first:
+      213: 4296909163557500163
+    second: spaghetti_atlas_206
+  - first:
+      213: -7956326346488110585
+    second: spaghetti_atlas_207
+  - first:
+      213: -3518913839502644021
+    second: spaghetti_atlas_208
+  - first:
+      213: 7468636863102787641
+    second: spaghetti_atlas_209
+  - first:
+      213: 6469621405554282664
+    second: spaghetti_atlas_210
+  - first:
+      213: 3346990364024752750
+    second: spaghetti_atlas_211
+  - first:
+      213: -8890229507563073268
+    second: spaghetti_atlas_212
+  - first:
+      213: -4410609077042269681
+    second: spaghetti_atlas_213
+  - first:
+      213: 3314059968265706428
+    second: spaghetti_atlas_214
+  - first:
+      213: -3158504194291701306
+    second: spaghetti_atlas_215
+  - first:
+      213: 8228368818523002069
+    second: spaghetti_atlas_216
+  - first:
+      213: -8853165777978992470
+    second: spaghetti_atlas_217
+  - first:
+      213: 4129213889016185096
+    second: spaghetti_atlas_218
+  - first:
+      213: -5226710532565496612
+    second: spaghetti_atlas_219
+  - first:
+      213: 8825338782526181335
+    second: spaghetti_atlas_220
+  - first:
+      213: 927676449213006086
+    second: spaghetti_atlas_221
+  - first:
+      213: -9199857191713581471
+    second: spaghetti_atlas_222
+  - first:
+      213: 5919705166286078756
+    second: spaghetti_atlas_223
+  - first:
+      213: -7424735678220308331
+    second: spaghetti_atlas_224
+  - first:
+      213: 7604074329768901076
+    second: spaghetti_atlas_225
+  - first:
+      213: 9207536714584470806
+    second: spaghetti_atlas_226
+  - first:
+      213: 2047193636475374004
+    second: spaghetti_atlas_227
+  - first:
+      213: -1149783809522296516
+    second: spaghetti_atlas_228
+  - first:
+      213: -5281606428327494110
+    second: spaghetti_atlas_229
+  - first:
+      213: -4605976842868825725
+    second: spaghetti_atlas_230
+  - first:
+      213: 9174267814750035417
+    second: spaghetti_atlas_231
+  - first:
+      213: 6953186754832336465
+    second: spaghetti_atlas_232
+  - first:
+      213: 1387596347275294908
+    second: spaghetti_atlas_233
+  - first:
+      213: -5294078533742670484
+    second: spaghetti_atlas_234
+  - first:
+      213: 7013982993195729694
+    second: spaghetti_atlas_235
+  - first:
+      213: 5137500211929331285
+    second: spaghetti_atlas_236
+  - first:
+      213: 6029309875069977871
+    second: spaghetti_atlas_237
+  - first:
+      213: -4193566499332826269
+    second: spaghetti_atlas_238
+  - first:
+      213: 2800344763525546620
+    second: spaghetti_atlas_239
+  - first:
+      213: -7496742683827808995
+    second: spaghetti_atlas_240
+  - first:
+      213: 3911222827589148643
+    second: spaghetti_atlas_241
+  - first:
+      213: 1566832909965331013
+    second: spaghetti_atlas_242
+  - first:
+      213: 1082427054314196583
+    second: spaghetti_atlas_243
+  - first:
+      213: -2051420640122493301
+    second: spaghetti_atlas_244
+  - first:
+      213: -2904322708225426243
+    second: spaghetti_atlas_245
+  - first:
+      213: 508498009937139685
+    second: spaghetti_atlas_246
+  - first:
+      213: -3141688882695792076
+    second: spaghetti_atlas_247
+  - first:
+      213: -5091822525067122678
+    second: spaghetti_atlas_248
+  - first:
+      213: -1026228510300313737
+    second: spaghetti_atlas_249
+  - first:
+      213: 6453489814506925095
+    second: spaghetti_atlas_250
+  - first:
+      213: 3441157027740250840
+    second: spaghetti_atlas_251
+  - first:
+      213: -1737879353581977356
+    second: spaghetti_atlas_252
+  - first:
+      213: -4865662660105879816
+    second: spaghetti_atlas_253
+  - first:
+      213: 6330033206374813043
+    second: spaghetti_atlas_254
+  - first:
+      213: -8299640444151534445
+    second: spaghetti_atlas_255
+  - first:
+      213: -6064765407300384834
+    second: spaghetti_atlas_256
+  - first:
+      213: 4605462434726888822
+    second: spaghetti_atlas_257
+  - first:
+      213: -4206427105130363754
+    second: spaghetti_atlas_258
+  - first:
+      213: -6699150938041442980
+    second: spaghetti_atlas_259
+  - first:
+      213: -5767767365064416777
+    second: spaghetti_atlas_260
+  - first:
+      213: -270125323418660324
+    second: spaghetti_atlas_261
+  - first:
+      213: 3796013268619593306
+    second: spaghetti_atlas_262
+  - first:
+      213: 6240493356515380867
+    second: spaghetti_atlas_263
+  - first:
+      213: 7734264332692790363
+    second: spaghetti_atlas_264
+  - first:
+      213: 373886598868916690
+    second: spaghetti_atlas_265
+  - first:
+      213: 7086691057534258937
+    second: spaghetti_atlas_266
+  - first:
+      213: -6350031720812800699
+    second: spaghetti_atlas_267
+  - first:
+      213: -1552101982938053477
+    second: spaghetti_atlas_268
+  - first:
+      213: 8122122860348892013
+    second: spaghetti_atlas_269
+  - first:
+      213: -5008477828866875305
+    second: spaghetti_atlas_270
+  - first:
+      213: -5414911490510529877
+    second: spaghetti_atlas_271
+  - first:
+      213: -7703569861514277624
+    second: spaghetti_atlas_272
+  - first:
+      213: -6693626911761864599
+    second: spaghetti_atlas_273
+  - first:
+      213: -4997599180121485627
+    second: spaghetti_atlas_274
+  - first:
+      213: -714354077449053827
+    second: spaghetti_atlas_275
+  - first:
+      213: 5558804443045209336
+    second: spaghetti_atlas_276
+  - first:
+      213: -2665932084313842004
+    second: spaghetti_atlas_277
+  - first:
+      213: 1751215484688321803
+    second: spaghetti_atlas_278
+  - first:
+      213: 4098621238208449314
+    second: spaghetti_atlas_279
+  - first:
+      213: -4144977204846837103
+    second: spaghetti_atlas_280
+  - first:
+      213: -5929847950160073574
+    second: spaghetti_atlas_281
+  - first:
+      213: 6020702602075296756
+    second: spaghetti_atlas_282
+  - first:
+      213: -1267039034671540569
+    second: spaghetti_atlas_283
+  - first:
+      213: -7443058522144794740
+    second: spaghetti_atlas_284
+  - first:
+      213: 6448221389620193006
+    second: spaghetti_atlas_285
+  - first:
+      213: 6589435415185054957
+    second: spaghetti_atlas_286
+  - first:
+      213: 7943722302881194241
+    second: spaghetti_atlas_287
+  - first:
+      213: -8517030303923038992
+    second: spaghetti_atlas_288
+  - first:
+      213: 2178380777451010291
+    second: spaghetti_atlas_289
+  - first:
+      213: -8928657522163264969
+    second: spaghetti_atlas_290
+  - first:
+      213: 5873407472066735790
+    second: spaghetti_atlas_291
+  - first:
+      213: 1882881185043586864
+    second: spaghetti_atlas_292
+  - first:
+      213: 5933624565498909715
+    second: spaghetti_atlas_293
+  - first:
+      213: 7003159589319494650
+    second: spaghetti_atlas_294
+  - first:
+      213: -379174645381214282
+    second: spaghetti_atlas_295
+  - first:
+      213: 27599945496023926
+    second: spaghetti_atlas_296
+  - first:
+      213: -7919123919635582761
+    second: spaghetti_atlas_297
+  - first:
+      213: -5038680215405176341
+    second: spaghetti_atlas_298
+  - first:
+      213: 4966158132092753718
+    second: spaghetti_atlas_299
+  - first:
+      213: 8146533927310343108
+    second: spaghetti_atlas_300
+  - first:
+      213: 4131385826862311577
+    second: spaghetti_atlas_301
+  - first:
+      213: 5146250110932869037
+    second: spaghetti_atlas_302
+  - first:
+      213: -4024632715227462204
+    second: spaghetti_atlas_303
+  - first:
+      213: 4040370977042670556
+    second: spaghetti_atlas_304
+  - first:
+      213: 2649731902967032906
+    second: spaghetti_atlas_305
+  - first:
+      213: -903494511580477769
+    second: spaghetti_atlas_306
+  - first:
+      213: 8700878236241439166
+    second: spaghetti_atlas_307
+  - first:
+      213: -3909597762300332565
+    second: spaghetti_atlas_308
+  - first:
+      213: -2116289231927745375
+    second: spaghetti_atlas_309
+  - first:
+      213: 1399226294330748862
+    second: spaghetti_atlas_310
+  - first:
+      213: 5958615424230599297
+    second: spaghetti_atlas_311
+  - first:
+      213: 6369445580244383317
+    second: spaghetti_atlas_312
+  - first:
+      213: -1950539503495649805
+    second: spaghetti_atlas_313
+  - first:
+      213: -91336438821904673
+    second: spaghetti_atlas_314
+  - first:
+      213: 5396422716145176311
+    second: spaghetti_atlas_315
+  - first:
+      213: -2705388928824679952
+    second: spaghetti_atlas_316
+  - first:
+      213: 4419865564460985209
+    second: spaghetti_atlas_317
+  - first:
+      213: 3530287762230160723
+    second: spaghetti_atlas_318
+  - first:
+      213: 8462002152794985717
+    second: spaghetti_atlas_319
+  - first:
+      213: -2925412899464381911
+    second: spaghetti_atlas_320
+  - first:
+      213: 3583997263068526142
+    second: spaghetti_atlas_321
+  - first:
+      213: 3309643208133426629
+    second: spaghetti_atlas_322
+  - first:
+      213: -4817442832147834006
+    second: spaghetti_atlas_323
+  - first:
+      213: -8880740153443393385
+    second: spaghetti_atlas_324
+  - first:
+      213: 6805704140349946981
+    second: spaghetti_atlas_325
+  - first:
+      213: 2843614382726389291
+    second: spaghetti_atlas_326
+  - first:
+      213: 2882867614783071070
+    second: spaghetti_atlas_327
+  - first:
+      213: 1167192236484230530
+    second: spaghetti_atlas_328
+  - first:
+      213: 5877427303433412893
+    second: spaghetti_atlas_329
+  - first:
+      213: -3589005949045731441
+    second: spaghetti_atlas_330
+  - first:
+      213: 2815747310850530552
+    second: spaghetti_atlas_331
+  - first:
+      213: 3296106697072563712
+    second: spaghetti_atlas_332
+  - first:
+      213: 448007443631178066
+    second: spaghetti_atlas_333
+  - first:
+      213: -1940742623509344696
+    second: spaghetti_atlas_334
+  - first:
+      213: 1064479621092297707
+    second: spaghetti_atlas_335
+  - first:
+      213: 4734768637962870086
+    second: spaghetti_atlas_336
+  - first:
+      213: -5953536307949954176
+    second: spaghetti_atlas_337
+  - first:
+      213: 7572989180606181114
+    second: spaghetti_atlas_338
+  - first:
+      213: 2572491654725987626
+    second: spaghetti_atlas_339
+  - first:
+      213: -4453417378486224526
+    second: spaghetti_atlas_340
+  - first:
+      213: 3767305063869096736
+    second: spaghetti_atlas_341
+  - first:
+      213: 6470868014794009177
+    second: spaghetti_atlas_342
+  - first:
+      213: 805174441266710357
+    second: spaghetti_atlas_343
+  - first:
+      213: 3060632338765559160
+    second: spaghetti_atlas_344
+  - first:
+      213: -365964969984979587
+    second: spaghetti_atlas_345
+  - first:
+      213: 5801773602135929620
+    second: spaghetti_atlas_346
+  - first:
+      213: -2436077868045060775
+    second: spaghetti_atlas_347
+  - first:
+      213: -6800215228707033781
+    second: spaghetti_atlas_348
+  - first:
+      213: 2129416289457547086
+    second: spaghetti_atlas_349
+  - first:
+      213: 6064927839074834483
+    second: spaghetti_atlas_350
+  - first:
+      213: -8869619629570737992
+    second: spaghetti_atlas_351
+  - first:
+      213: 4806308098353129171
+    second: spaghetti_atlas_352
+  - first:
+      213: -5784346333408553437
+    second: spaghetti_atlas_353
+  - first:
+      213: 8205070694639969689
+    second: spaghetti_atlas_354
+  - first:
+      213: 8192692766444183088
+    second: spaghetti_atlas_355
+  - first:
+      213: -6527039065749134127
+    second: spaghetti_atlas_356
+  - first:
+      213: -5825289851607550089
+    second: spaghetti_atlas_357
+  - first:
+      213: 8303210004281742413
+    second: spaghetti_atlas_358
+  - first:
+      213: 7174562192668108020
+    second: spaghetti_atlas_359
+  - first:
+      213: 8979917652650163633
+    second: spaghetti_atlas_360
+  - first:
+      213: -7556645393224418247
+    second: spaghetti_atlas_361
+  - first:
+      213: -3205445530706202782
+    second: spaghetti_atlas_362
+  - first:
+      213: 4208565965716346883
+    second: spaghetti_atlas_363
+  - first:
+      213: -1217635683695624547
+    second: spaghetti_atlas_364
+  - first:
+      213: -3666659750307187123
+    second: spaghetti_atlas_365
+  - first:
+      213: -470331797222316333
+    second: spaghetti_atlas_366
+  - first:
+      213: -6491349626435423651
+    second: spaghetti_atlas_367
+  - first:
+      213: -5330127059203464451
+    second: spaghetti_atlas_368
+  - first:
+      213: -8159097860835415890
+    second: spaghetti_atlas_369
+  - first:
+      213: -6581186615580234266
+    second: spaghetti_atlas_370
+  - first:
+      213: -3735568823611241566
+    second: spaghetti_atlas_371
+  - first:
+      213: -5605728695147672215
+    second: spaghetti_atlas_372
+  - first:
+      213: -1543355805868574005
+    second: spaghetti_atlas_373
+  - first:
+      213: 2406135898433966664
+    second: spaghetti_atlas_374
+  - first:
+      213: -7454252828712485206
+    second: spaghetti_atlas_375
+  - first:
+      213: -5428675073322344269
+    second: spaghetti_atlas_376
+  - first:
+      213: 5309101152530337370
+    second: spaghetti_atlas_377
+  - first:
+      213: 8109198766953702522
+    second: spaghetti_atlas_378
+  - first:
+      213: -5375638965196162087
+    second: spaghetti_atlas_379
+  - first:
+      213: -2843356520380568363
+    second: spaghetti_atlas_380
+  - first:
+      213: -89211289698131570
+    second: spaghetti_atlas_381
+  - first:
+      213: 5081261038954648879
+    second: spaghetti_atlas_382
+  - first:
+      213: -3887477614512213061
+    second: spaghetti_atlas_383
+  - first:
+      213: -7925570008642935775
+    second: spaghetti_atlas_384
+  - first:
+      213: -7372629182112750248
+    second: spaghetti_atlas_385
+  - first:
+      213: 2652343769954430515
+    second: spaghetti_atlas_386
+  - first:
+      213: 8290022865284073189
+    second: spaghetti_atlas_387
+  - first:
+      213: 3378133685721464853
+    second: spaghetti_atlas_388
+  - first:
+      213: -4361161423211802550
+    second: spaghetti_atlas_389
+  - first:
+      213: 1857874920833607138
+    second: spaghetti_atlas_390
+  - first:
+      213: -8606834900066660184
+    second: spaghetti_atlas_391
+  - first:
+      213: -2289365410332403175
+    second: spaghetti_atlas_392
+  - first:
+      213: -4843168658339366728
+    second: spaghetti_atlas_393
+  - first:
+      213: 1001061873268904211
+    second: spaghetti_atlas_394
+  - first:
+      213: -3241819931280697209
+    second: spaghetti_atlas_395
+  - first:
+      213: -2346503938825670278
+    second: spaghetti_atlas_396
+  - first:
+      213: 6938250382731680516
+    second: spaghetti_atlas_397
+  - first:
+      213: -5328629074474465565
+    second: spaghetti_atlas_398
+  - first:
+      213: -2498677571559342916
+    second: spaghetti_atlas_399
+  - first:
+      213: 4586133386640812136
+    second: spaghetti_atlas_400
+  - first:
+      213: -3127652700126393634
+    second: spaghetti_atlas_401
+  - first:
+      213: -2583411237895287880
+    second: spaghetti_atlas_402
+  - first:
+      213: -8778618263009496906
+    second: spaghetti_atlas_403
+  - first:
+      213: 7348681444276704448
+    second: spaghetti_atlas_404
+  - first:
+      213: 1542663626394275390
+    second: spaghetti_atlas_405
+  - first:
+      213: 8056723275412904101
+    second: spaghetti_atlas_406
+  - first:
+      213: 496987783561609043
+    second: spaghetti_atlas_407
+  - first:
+      213: 2732140004675702919
+    second: spaghetti_atlas_408
+  - first:
+      213: 1219461032281876381
+    second: spaghetti_atlas_409
+  - first:
+      213: 3954839311446890102
+    second: spaghetti_atlas_410
+  - first:
+      213: 7103706359019141829
+    second: spaghetti_atlas_411
+  - first:
+      213: 6067115106923178862
+    second: spaghetti_atlas_412
+  - first:
+      213: 3988604506697481063
+    second: spaghetti_atlas_413
+  - first:
+      213: -2905559897208246780
+    second: spaghetti_atlas_414
+  - first:
+      213: 1139868744707175294
+    second: spaghetti_atlas_415
+  - first:
+      213: 2610800755211472579
+    second: spaghetti_atlas_416
+  - first:
+      213: -9213617045592153760
+    second: spaghetti_atlas_417
+  - first:
+      213: 490668550527738427
+    second: spaghetti_atlas_418
+  - first:
+      213: 47219431910410163
+    second: spaghetti_atlas_419
+  - first:
+      213: 7152073360848179913
+    second: spaghetti_atlas_420
+  - first:
+      213: 5710030449383587905
+    second: spaghetti_atlas_421
+  - first:
+      213: 1255094207799376819
+    second: spaghetti_atlas_422
+  - first:
+      213: -3338098091020112612
+    second: spaghetti_atlas_423
+  - first:
+      213: -4132261705798214132
+    second: spaghetti_atlas_424
+  - first:
+      213: 79991683523313157
+    second: spaghetti_atlas_425
+  - first:
+      213: -2165403387104286724
+    second: spaghetti_atlas_426
+  - first:
+      213: -388730020712517406
+    second: spaghetti_atlas_427
+  - first:
+      213: -4313181374740806080
+    second: spaghetti_atlas_428
+  - first:
+      213: -3949100489969155339
+    second: spaghetti_atlas_429
+  - first:
+      213: -3161014530435617276
+    second: spaghetti_atlas_430
+  - first:
+      213: -2744283990759936638
+    second: spaghetti_atlas_431
+  - first:
+      213: -1387712946849402892
+    second: spaghetti_atlas_432
+  - first:
+      213: 1217962080629418157
+    second: spaghetti_atlas_433
+  - first:
+      213: 7398943806700820643
+    second: spaghetti_atlas_434
+  - first:
+      213: 7768203219118877597
+    second: spaghetti_atlas_435
+  - first:
+      213: 3861260658741921178
+    second: spaghetti_atlas_436
+  - first:
+      213: -2145683964331274574
+    second: spaghetti_atlas_437
+  - first:
+      213: 8774245290652876612
+    second: spaghetti_atlas_438
+  - first:
+      213: -9001357304994634079
+    second: spaghetti_atlas_439
+  - first:
+      213: 5283847113993469058
+    second: spaghetti_atlas_440
+  - first:
+      213: -186764819616532548
+    second: spaghetti_atlas_441
+  - first:
+      213: 915569393598781237
+    second: spaghetti_atlas_442
+  - first:
+      213: -8064637462746913330
+    second: spaghetti_atlas_443
+  - first:
+      213: 5191783664304798021
+    second: spaghetti_atlas_444
+  - first:
+      213: 2422864871183378898
+    second: spaghetti_atlas_445
+  - first:
+      213: -6650969861643829882
+    second: spaghetti_atlas_446
+  - first:
+      213: 2117207040262866315
+    second: spaghetti_atlas_447
+  - first:
+      213: -265545295930954513
+    second: spaghetti_atlas_448
+  - first:
+      213: -5081242019921232134
+    second: spaghetti_atlas_449
+  - first:
+      213: -3831279119269532871
+    second: spaghetti_atlas_450
+  - first:
+      213: -8171111487054155923
+    second: spaghetti_atlas_451
+  - first:
+      213: 1891923541459135437
+    second: spaghetti_atlas_452
+  - first:
+      213: 8580580043639820550
+    second: spaghetti_atlas_453
+  - first:
+      213: -5968793911906353827
+    second: spaghetti_atlas_454
+  - first:
+      213: -7459162252133610102
+    second: spaghetti_atlas_455
+  - first:
+      213: -6864831767190797901
+    second: spaghetti_atlas_456
+  - first:
+      213: -5274195316797534804
+    second: spaghetti_atlas_457
+  - first:
+      213: 3664169756562651007
+    second: spaghetti_atlas_458
+  - first:
+      213: -9116583632703461400
+    second: spaghetti_atlas_459
+  - first:
+      213: 180942951723195117
+    second: spaghetti_atlas_460
+  - first:
+      213: 1961533889755948929
+    second: spaghetti_atlas_461
+  - first:
+      213: 7454847231833372282
+    second: spaghetti_atlas_462
+  - first:
+      213: -865182437845797281
+    second: spaghetti_atlas_463
+  - first:
+      213: -7165181017140730372
+    second: spaghetti_atlas_464
+  - first:
+      213: -3656934361458247917
+    second: spaghetti_atlas_465
+  - first:
+      213: -8860218884285051778
+    second: spaghetti_atlas_466
+  - first:
+      213: -1824108631790107002
+    second: spaghetti_atlas_467
+  - first:
+      213: -7714685044074889725
+    second: spaghetti_atlas_468
+  - first:
+      213: -1737872750488255928
+    second: spaghetti_atlas_469
+  - first:
+      213: 1198197429182614700
+    second: spaghetti_atlas_470
+  - first:
+      213: 4896779959186731575
+    second: spaghetti_atlas_471
+  - first:
+      213: 189303005126908714
+    second: spaghetti_atlas_472
+  - first:
+      213: 3974722864768204452
+    second: spaghetti_atlas_473
+  - first:
+      213: -5493148746972931688
+    second: spaghetti_atlas_474
+  - first:
+      213: 6850756996580418789
+    second: spaghetti_atlas_475
+  - first:
+      213: -917465142107350364
+    second: spaghetti_atlas_476
+  - first:
+      213: 2687107145352450946
+    second: spaghetti_atlas_477
+  - first:
+      213: -946563344288041431
+    second: spaghetti_atlas_478
+  - first:
+      213: 2863809005301113876
+    second: spaghetti_atlas_479
+  - first:
+      213: -7797224274575004311
+    second: spaghetti_atlas_480
+  - first:
+      213: 8164589697212767599
+    second: spaghetti_atlas_481
+  - first:
+      213: -5482587434044889406
+    second: spaghetti_atlas_482
+  - first:
+      213: -2289524852843501140
+    second: spaghetti_atlas_483
+  - first:
+      213: -4346781534495646882
+    second: spaghetti_atlas_484
+  - first:
+      213: 5671688558653071593
+    second: spaghetti_atlas_485
+  - first:
+      213: -7790361926560007190
+    second: spaghetti_atlas_486
+  - first:
+      213: 2365253444352799012
+    second: spaghetti_atlas_487
+  - first:
+      213: -7122376390943923002
+    second: spaghetti_atlas_488
+  - first:
+      213: -2049752674374598356
+    second: spaghetti_atlas_489
+  - first:
+      213: -458268041376074706
+    second: spaghetti_atlas_490
+  - first:
+      213: -6410813730330079163
+    second: spaghetti_atlas_491
+  - first:
+      213: 5056730549766447464
+    second: spaghetti_atlas_492
+  - first:
+      213: 2976516755276674621
+    second: spaghetti_atlas_493
+  - first:
+      213: 2399588421664127959
+    second: spaghetti_atlas_494
+  - first:
+      213: 8566256498975312753
+    second: spaghetti_atlas_495
+  - first:
+      213: 8253246762110200940
+    second: spaghetti_atlas_496
+  - first:
+      213: 7707651553476280124
+    second: spaghetti_atlas_497
+  - first:
+      213: 5741067543187307289
+    second: spaghetti_atlas_498
+  - first:
+      213: -8171118935818562230
+    second: spaghetti_atlas_499
+  - first:
+      213: 3854348865947487416
+    second: spaghetti_atlas_500
+  - first:
+      213: -1361166489604895497
+    second: spaghetti_atlas_501
+  - first:
+      213: 4928039596927203650
+    second: spaghetti_atlas_502
+  - first:
+      213: 1229995638591975810
+    second: spaghetti_atlas_503
+  - first:
+      213: -3110701873107804845
+    second: spaghetti_atlas_504
+  - first:
+      213: 5587953068617665182
+    second: spaghetti_atlas_505
+  - first:
+      213: -7855030787235564651
+    second: spaghetti_atlas_506
+  - first:
+      213: 439475442663765088
+    second: spaghetti_atlas_507
+  - first:
+      213: -6661832927042001002
+    second: spaghetti_atlas_508
+  - first:
+      213: 8418886689192601380
+    second: spaghetti_atlas_509
+  - first:
+      213: 2678183112582271516
+    second: spaghetti_atlas_510
+  - first:
+      213: -7771177164504998225
+    second: spaghetti_atlas_511
+  - first:
+      213: 2465706952938815705
+    second: spaghetti_atlas_512
+  - first:
+      213: -3667484702059097808
+    second: spaghetti_atlas_513
+  - first:
+      213: -4868467719257824612
+    second: spaghetti_atlas_514
+  - first:
+      213: -7662150472406983099
+    second: spaghetti_atlas_515
+  - first:
+      213: -138760684316837927
+    second: spaghetti_atlas_516
+  - first:
+      213: 6307911605420529116
+    second: spaghetti_atlas_517
+  - first:
+      213: -8951786354791713998
+    second: spaghetti_atlas_518
+  - first:
+      213: -6212522206799175204
+    second: spaghetti_atlas_519
+  - first:
+      213: 1421508797434637793
+    second: spaghetti_atlas_520
+  - first:
+      213: -2456887066449713164
+    second: spaghetti_atlas_521
+  - first:
+      213: -2175636972634029606
+    second: spaghetti_atlas_522
+  - first:
+      213: 274070834061053465
+    second: spaghetti_atlas_523
+  - first:
+      213: 5342009813521276169
+    second: spaghetti_atlas_524
+  - first:
+      213: 3557654437068081989
+    second: spaghetti_atlas_525
+  - first:
+      213: 4236422860406177757
+    second: spaghetti_atlas_526
+  - first:
+      213: -739002485538744806
+    second: spaghetti_atlas_527
+  - first:
+      213: 7249212816588437297
+    second: spaghetti_atlas_528
+  - first:
+      213: -8586758432914001265
+    second: spaghetti_atlas_529
+  - first:
+      213: 5654681595446195507
+    second: spaghetti_atlas_530
+  - first:
+      213: -6216623725244448639
+    second: spaghetti_atlas_531
+  - first:
+      213: 3487379612023364628
+    second: spaghetti_atlas_532
+  - first:
+      213: -5636467642613361471
+    second: spaghetti_atlas_533
+  - first:
+      213: 8324798169137797286
+    second: spaghetti_atlas_534
+  - first:
+      213: -3168382193513294506
+    second: spaghetti_atlas_535
+  - first:
+      213: -4704195457871189529
+    second: spaghetti_atlas_536
+  - first:
+      213: -3916223836846484006
+    second: spaghetti_atlas_537
+  - first:
+      213: 7650318523916143428
+    second: spaghetti_atlas_538
+  - first:
+      213: 5651775963163410501
+    second: spaghetti_atlas_539
+  - first:
+      213: 1201549767640161095
+    second: spaghetti_atlas_540
+  - first:
+      213: -5879804467436777894
+    second: spaghetti_atlas_541
+  - first:
+      213: -4003857851993936239
+    second: spaghetti_atlas_542
+  - first:
+      213: -2633424575755953311
+    second: spaghetti_atlas_543
+  - first:
+      213: 4074529796643921014
+    second: spaghetti_atlas_544
+  - first:
+      213: -5415137350755338820
+    second: spaghetti_atlas_545
+  - first:
+      213: 8524766666229379845
+    second: spaghetti_atlas_546
+  - first:
+      213: -7922547461160201018
+    second: spaghetti_atlas_547
+  - first:
+      213: 7297041467004407122
+    second: spaghetti_atlas_548
+  - first:
+      213: -3691541219086406316
+    second: spaghetti_atlas_549
+  - first:
+      213: 8754414887164300778
+    second: spaghetti_atlas_550
+  - first:
+      213: -2437125720987992882
+    second: spaghetti_atlas_551
+  - first:
+      213: -8152500747697262322
+    second: spaghetti_atlas_552
+  - first:
+      213: 4282388333102211769
+    second: spaghetti_atlas_553
+  - first:
+      213: -9217319273670982245
+    second: spaghetti_atlas_554
+  - first:
+      213: -1880155934644151377
+    second: spaghetti_atlas_555
+  - first:
+      213: 8562361469145097001
+    second: spaghetti_atlas_556
+  - first:
+      213: 6747069402883399350
+    second: spaghetti_atlas_557
+  - first:
+      213: 2808734306368714563
+    second: spaghetti_atlas_558
+  - first:
+      213: 2504318487528594535
+    second: spaghetti_atlas_559
+  - first:
+      213: 1005547722466769365
+    second: spaghetti_atlas_560
+  - first:
+      213: 7118517729460340632
+    second: spaghetti_atlas_561
+  - first:
+      213: 4662984354208515055
+    second: spaghetti_atlas_562
+  - first:
+      213: -6743833506456452648
+    second: spaghetti_atlas_563
+  - first:
+      213: -7425583153443992626
+    second: spaghetti_atlas_564
+  - first:
+      213: -124026285094142502
+    second: spaghetti_atlas_565
+  - first:
+      213: 8699651639364463645
+    second: spaghetti_atlas_566
+  - first:
+      213: 2235466650060260541
+    second: spaghetti_atlas_567
+  - first:
+      213: 1403264485037771618
+    second: spaghetti_atlas_568
+  - first:
+      213: 1389467465511076423
+    second: spaghetti_atlas_569
+  - first:
+      213: 223173822094749362
+    second: spaghetti_atlas_570
+  - first:
+      213: -1271516866410629362
+    second: spaghetti_atlas_571
+  - first:
+      213: -7157581132163840966
+    second: spaghetti_atlas_572
+  - first:
+      213: -2966759711710345875
+    second: spaghetti_atlas_573
+  - first:
+      213: 6916426065609876557
+    second: spaghetti_atlas_574
+  - first:
+      213: 2087639449191181297
+    second: spaghetti_atlas_575
+  - first:
+      213: -7475899011639350265
+    second: spaghetti_atlas_576
+  - first:
+      213: -3057293004318984821
+    second: spaghetti_atlas_577
+  - first:
+      213: 4969342604190519185
+    second: spaghetti_atlas_578
+  - first:
+      213: 8728444896263963937
+    second: spaghetti_atlas_579
+  - first:
+      213: -6440898653210789833
+    second: spaghetti_atlas_580
+  - first:
+      213: 2199344489111178849
+    second: spaghetti_atlas_581
+  - first:
+      213: 6482237735585962349
+    second: spaghetti_atlas_582
+  - first:
+      213: -4303211989590126280
+    second: spaghetti_atlas_583
+  - first:
+      213: -3497131558735992544
+    second: spaghetti_atlas_584
+  - first:
+      213: -7421293018198791344
+    second: spaghetti_atlas_585
+  - first:
+      213: 7601922800103877557
+    second: spaghetti_atlas_586
+  - first:
+      213: -2937945894869561142
+    second: spaghetti_atlas_587
+  - first:
+      213: -5748474716035154940
+    second: spaghetti_atlas_588
+  - first:
+      213: 1201279426788026532
+    second: spaghetti_atlas_589
+  - first:
+      213: 4158695574957137679
+    second: spaghetti_atlas_590
+  - first:
+      213: -4618446708094208887
+    second: spaghetti_atlas_591
+  - first:
+      213: -2075500164648819266
+    second: spaghetti_atlas_592
+  - first:
+      213: -7448682087388009489
+    second: spaghetti_atlas_593
+  - first:
+      213: 7433862789101345257
+    second: spaghetti_atlas_594
+  - first:
+      213: -4170659543685947621
+    second: spaghetti_atlas_595
+  - first:
+      213: 8948169068206998996
+    second: spaghetti_atlas_596
+  - first:
+      213: -543474290677900717
+    second: spaghetti_atlas_597
+  - first:
+      213: 2043478089695781870
+    second: spaghetti_atlas_598
+  - first:
+      213: 6260858174420543935
+    second: spaghetti_atlas_599
+  - first:
+      213: 2668319059675047403
+    second: spaghetti_atlas_600
+  - first:
+      213: -1827696838911890745
+    second: spaghetti_atlas_601
+  - first:
+      213: 6421533191574739800
+    second: spaghetti_atlas_602
+  - first:
+      213: 6308521075862288762
+    second: spaghetti_atlas_603
+  - first:
+      213: 6657771355147758820
+    second: spaghetti_atlas_604
+  - first:
+      213: 3253691302311386112
+    second: spaghetti_atlas_605
+  - first:
+      213: 5591718061720240325
+    second: spaghetti_atlas_606
+  - first:
+      213: 7789718332050797895
+    second: spaghetti_atlas_607
+  - first:
+      213: 6980799503360069358
+    second: spaghetti_atlas_608
+  - first:
+      213: -2180923378609079781
+    second: spaghetti_atlas_609
+  - first:
+      213: 3869535664041994715
+    second: spaghetti_atlas_610
+  - first:
+      213: 6852097679755029818
+    second: spaghetti_atlas_611
+  - first:
+      213: 2233256272256051450
+    second: spaghetti_atlas_612
+  - first:
+      213: 3248583346732383345
+    second: spaghetti_atlas_613
+  - first:
+      213: -767833787413244016
+    second: spaghetti_atlas_614
+  - first:
+      213: 974093848198943413
+    second: spaghetti_atlas_615
+  - first:
+      213: -8284208029263722297
+    second: spaghetti_atlas_616
+  - first:
+      213: 4967819832885381329
+    second: spaghetti_atlas_617
+  - first:
+      213: 1461660006919971381
+    second: spaghetti_atlas_618
+  - first:
+      213: 6659945161623910689
+    second: spaghetti_atlas_619
+  - first:
+      213: 8881579840307420724
+    second: spaghetti_atlas_620
+  - first:
+      213: 529651771456559450
+    second: spaghetti_atlas_621
+  - first:
+      213: -4631955325457103472
+    second: spaghetti_atlas_622
+  - first:
+      213: -6100055256474189582
+    second: spaghetti_atlas_623
+  - first:
+      213: -5560656441675507971
+    second: spaghetti_atlas_624
+  - first:
+      213: 7229770057856338678
+    second: spaghetti_atlas_625
+  - first:
+      213: 550472970834376395
+    second: spaghetti_atlas_626
+  - first:
+      213: -7923088767394909453
+    second: spaghetti_atlas_627
+  - first:
+      213: 5746588478969223461
+    second: spaghetti_atlas_628
+  - first:
+      213: -581495000875444119
+    second: spaghetti_atlas_629
+  - first:
+      213: -6171979961713494782
+    second: spaghetti_atlas_630
+  - first:
+      213: 2383612429266700774
+    second: spaghetti_atlas_631
+  - first:
+      213: 3446792225710705105
+    second: spaghetti_atlas_632
+  - first:
+      213: -7555475763570711506
+    second: spaghetti_atlas_633
+  - first:
+      213: 857946784687998566
+    second: spaghetti_atlas_634
+  - first:
+      213: -2954501481958768629
+    second: spaghetti_atlas_635
+  - first:
+      213: 2485645829128067185
+    second: spaghetti_atlas_636
+  - first:
+      213: 8731791944624344085
+    second: spaghetti_atlas_637
+  - first:
+      213: 1192804448424012444
+    second: spaghetti_atlas_638
+  - first:
+      213: -2412156063063468333
+    second: spaghetti_atlas_639
+  - first:
+      213: 5643909001598227951
+    second: spaghetti_atlas_640
+  - first:
+      213: -2544509987232750387
+    second: spaghetti_atlas_641
+  - first:
+      213: -960169698403254674
+    second: spaghetti_atlas_642
+  - first:
+      213: -7394205611623987100
+    second: spaghetti_atlas_643
+  - first:
+      213: 6167399951167510151
+    second: spaghetti_atlas_644
+  - first:
+      213: -2412828071738799738
+    second: spaghetti_atlas_645
+  - first:
+      213: -9033947206661162150
+    second: spaghetti_atlas_646
+  - first:
+      213: -5137078251053705890
+    second: spaghetti_atlas_647
+  - first:
+      213: 2810540580802404979
+    second: spaghetti_atlas_648
+  - first:
+      213: -5370351882689106563
+    second: spaghetti_atlas_649
+  - first:
+      213: 6830645584010760120
+    second: spaghetti_atlas_650
+  - first:
+      213: 1958536100856768145
+    second: spaghetti_atlas_651
+  - first:
+      213: 209622125039788566
+    second: spaghetti_atlas_652
+  - first:
+      213: 1227319789575771648
+    second: spaghetti_atlas_653
+  - first:
+      213: -8119225344008421596
+    second: spaghetti_atlas_654
+  - first:
+      213: 6668186790387452302
+    second: spaghetti_atlas_655
+  - first:
+      213: -6213720757483579023
+    second: spaghetti_atlas_656
+  - first:
+      213: 2900593326853385507
+    second: spaghetti_atlas_657
+  - first:
+      213: -1797915637284201536
+    second: spaghetti_atlas_658
+  - first:
+      213: 6283208736770286753
+    second: spaghetti_atlas_659
+  - first:
+      213: -3609337971407762735
+    second: spaghetti_atlas_660
+  - first:
+      213: -7914879956251897679
+    second: spaghetti_atlas_661
+  - first:
+      213: -2863590163155671576
+    second: spaghetti_atlas_662
+  - first:
+      213: -6727817523499325048
+    second: spaghetti_atlas_663
+  - first:
+      213: -6417274962427435312
+    second: spaghetti_atlas_664
+  - first:
+      213: 2222770280685985180
+    second: spaghetti_atlas_665
+  - first:
+      213: 4246116315204808030
+    second: spaghetti_atlas_666
+  - first:
+      213: 6566065182209997657
+    second: spaghetti_atlas_667
+  - first:
+      213: 7478438933232082007
+    second: spaghetti_atlas_668
+  - first:
+      213: -7057392882599354607
+    second: spaghetti_atlas_669
+  - first:
+      213: 2660921079592826516
+    second: spaghetti_atlas_670
+  - first:
+      213: -1439800161173049404
+    second: spaghetti_atlas_671
+  - first:
+      213: -2724663843981772690
+    second: spaghetti_atlas_672
+  - first:
+      213: 3311920488494095408
+    second: spaghetti_atlas_673
+  - first:
+      213: 6369343432761786073
+    second: spaghetti_atlas_674
+  - first:
+      213: -4571868551106096952
+    second: spaghetti_atlas_675
+  - first:
+      213: 369602246155197453
+    second: spaghetti_atlas_676
+  - first:
+      213: 5355355869419027733
+    second: spaghetti_atlas_677
+  - first:
+      213: 5815423795769004869
+    second: spaghetti_atlas_678
+  - first:
+      213: -3921732620191417291
+    second: spaghetti_atlas_679
+  - first:
+      213: 8414377019356913971
+    second: spaghetti_atlas_680
+  - first:
+      213: -1112211048489909583
+    second: spaghetti_atlas_681
+  - first:
+      213: 3690521355219503695
+    second: spaghetti_atlas_682
+  - first:
+      213: -333046769489084140
+    second: spaghetti_atlas_683
+  - first:
+      213: -1892441544348684404
+    second: spaghetti_atlas_684
+  - first:
+      213: -8511611270992222595
+    second: spaghetti_atlas_685
+  - first:
+      213: 8018150686026264352
+    second: spaghetti_atlas_686
+  - first:
+      213: -8634357888585297895
+    second: spaghetti_atlas_687
+  - first:
+      213: 2260236800740275626
+    second: spaghetti_atlas_688
+  - first:
+      213: -6545924460890398513
+    second: spaghetti_atlas_689
+  - first:
+      213: -2142745327577876872
+    second: spaghetti_atlas_690
+  - first:
+      213: -1285882484873242262
+    second: spaghetti_atlas_691
+  - first:
+      213: 1915931540024719984
+    second: spaghetti_atlas_692
+  - first:
+      213: -6557730469148907515
+    second: spaghetti_atlas_693
+  - first:
+      213: -1127219704627208339
+    second: spaghetti_atlas_694
+  - first:
+      213: -2228423199287152138
+    second: spaghetti_atlas_695
+  - first:
+      213: -4397678882792045168
+    second: spaghetti_atlas_696
+  - first:
+      213: 4060559769663500666
+    second: spaghetti_atlas_697
+  - first:
+      213: -3020578330830564922
+    second: spaghetti_atlas_698
+  - first:
+      213: 1660566380959994866
+    second: spaghetti_atlas_699
+  - first:
+      213: -3485823255445256690
+    second: spaghetti_atlas_700
+  - first:
+      213: 1277543501844974300
+    second: spaghetti_atlas_701
+  - first:
+      213: -615215274897871356
+    second: spaghetti_atlas_702
+  - first:
+      213: 3105782659087614850
+    second: spaghetti_atlas_703
+  - first:
+      213: 1763485780943076791
+    second: spaghetti_atlas_704
+  - first:
+      213: 9160878290834083712
+    second: spaghetti_atlas_705
+  - first:
+      213: 4089720065501354884
+    second: spaghetti_atlas_706
+  - first:
+      213: 2271523964700042916
+    second: spaghetti_atlas_707
+  - first:
+      213: -84895203329459263
+    second: spaghetti_atlas_708
+  - first:
+      213: 6768846755175494781
+    second: spaghetti_atlas_709
+  - first:
+      213: -5473208263904320513
+    second: spaghetti_atlas_710
+  - first:
+      213: 5126681727330480958
+    second: spaghetti_atlas_711
+  - first:
+      213: 840525454787711546
+    second: spaghetti_atlas_712
+  - first:
+      213: 2085564465014420971
+    second: spaghetti_atlas_713
+  - first:
+      213: 3483125888715584262
+    second: spaghetti_atlas_714
+  - first:
+      213: 7738655211654882359
+    second: spaghetti_atlas_715
+  - first:
+      213: 7225617780607987690
+    second: spaghetti_atlas_716
+  - first:
+      213: -7372098391910309926
+    second: spaghetti_atlas_717
+  - first:
+      213: 8494689192010121285
+    second: spaghetti_atlas_718
+  - first:
+      213: 4657148402388611028
+    second: spaghetti_atlas_719
+  - first:
+      213: 622364799612010598
+    second: spaghetti_atlas_720
+  - first:
+      213: 7820464146470824568
+    second: spaghetti_atlas_721
+  - first:
+      213: -8572280416645437205
+    second: spaghetti_atlas_722
+  - first:
+      213: 3069779287160953250
+    second: spaghetti_atlas_723
+  - first:
+      213: 7342217121178645800
+    second: spaghetti_atlas_724
+  - first:
+      213: 1097604226934405452
+    second: spaghetti_atlas_725
+  - first:
+      213: -5937651325763589297
+    second: spaghetti_atlas_726
+  - first:
+      213: -5961496122653376549
+    second: spaghetti_atlas_727
+  - first:
+      213: -5194770262882329096
+    second: spaghetti_atlas_728
+  - first:
+      213: -7946666733483548596
+    second: spaghetti_atlas_729
+  - first:
+      213: 7565436248829807839
+    second: spaghetti_atlas_730
+  - first:
+      213: 826942955927933451
+    second: spaghetti_atlas_731
+  - first:
+      213: -5154612795488233028
+    second: spaghetti_atlas_732
+  - first:
+      213: -5816665287654418836
+    second: spaghetti_atlas_733
+  - first:
+      213: 7952834260891812592
+    second: spaghetti_atlas_734
+  - first:
+      213: 3700852107904470687
+    second: spaghetti_atlas_735
+  - first:
+      213: 8423839954195529364
+    second: spaghetti_atlas_736
+  - first:
+      213: 8537250793221383913
+    second: spaghetti_atlas_737
+  - first:
+      213: -7843867869065389008
+    second: spaghetti_atlas_738
+  - first:
+      213: -7619385358461176630
+    second: spaghetti_atlas_739
+  - first:
+      213: 6315645638205288216
+    second: spaghetti_atlas_740
+  - first:
+      213: -1429745969725669705
+    second: spaghetti_atlas_741
+  - first:
+      213: 5802292122956343699
+    second: spaghetti_atlas_742
+  - first:
+      213: -6520091134549533455
+    second: spaghetti_atlas_743
+  - first:
+      213: 4511139272262705417
+    second: spaghetti_atlas_744
+  - first:
+      213: -5755647618640044888
+    second: spaghetti_atlas_745
+  - first:
+      213: 2503551939720345867
+    second: spaghetti_atlas_746
+  - first:
+      213: 5612022510867898298
+    second: spaghetti_atlas_747
+  - first:
+      213: 371134685155229282
+    second: spaghetti_atlas_748
+  - first:
+      213: -4094186326635670907
+    second: spaghetti_atlas_749
+  - first:
+      213: 2234309743798886470
+    second: spaghetti_atlas_750
+  - first:
+      213: 3461481004109852951
+    second: spaghetti_atlas_751
+  - first:
+      213: -5019617014554978963
+    second: spaghetti_atlas_752
+  - first:
+      213: 5681853912078840589
+    second: spaghetti_atlas_753
+  - first:
+      213: 7169808991169209155
+    second: spaghetti_atlas_754
+  - first:
+      213: 5090026460988406117
+    second: spaghetti_atlas_755
+  - first:
+      213: 729555815983828204
+    second: spaghetti_atlas_756
+  - first:
+      213: 3085286826952004709
+    second: spaghetti_atlas_757
+  - first:
+      213: 2235951217952332246
+    second: spaghetti_atlas_758
+  - first:
+      213: -2670033808394278991
+    second: spaghetti_atlas_759
+  - first:
+      213: -1640664132581495452
+    second: spaghetti_atlas_760
+  - first:
+      213: -6592357272312971021
+    second: spaghetti_atlas_761
+  - first:
+      213: 7748966034303426599
+    second: spaghetti_atlas_762
+  - first:
+      213: -78791604421376045
+    second: spaghetti_atlas_763
+  - first:
+      213: 4914821044104016136
+    second: spaghetti_atlas_764
+  - first:
+      213: 9135975124118565255
+    second: spaghetti_atlas_765
+  - first:
+      213: 6871790527032469346
+    second: spaghetti_atlas_766
+  - first:
+      213: 7960834056026512434
+    second: spaghetti_atlas_767
+  - first:
+      213: -3321222908351465093
+    second: spaghetti_atlas_768
+  - first:
+      213: -5251730405255832758
+    second: spaghetti_atlas_769
+  - first:
+      213: 2726754729124843419
+    second: spaghetti_atlas_770
+  - first:
+      213: -6074773250591572972
+    second: spaghetti_atlas_771
+  - first:
+      213: 1488540871655039447
+    second: spaghetti_atlas_772
+  - first:
+      213: 625197682167252791
+    second: spaghetti_atlas_773
+  - first:
+      213: -4867273690668386445
+    second: spaghetti_atlas_774
+  - first:
+      213: 646894882710549677
+    second: spaghetti_atlas_775
+  - first:
+      213: -7592548998192047374
+    second: spaghetti_atlas_776
+  - first:
+      213: -762993690797732289
+    second: spaghetti_atlas_777
+  - first:
+      213: -781511679740068090
+    second: spaghetti_atlas_778
+  - first:
+      213: 4299003487903850608
+    second: spaghetti_atlas_779
+  - first:
+      213: 8220634227725035015
+    second: spaghetti_atlas_780
+  - first:
+      213: -7038868344211087592
+    second: spaghetti_atlas_781
+  - first:
+      213: 8691629990321239873
+    second: spaghetti_atlas_782
+  - first:
+      213: 8590545748075475863
+    second: spaghetti_atlas_783
+  - first:
+      213: 3523959474991509271
+    second: spaghetti_atlas_784
+  - first:
+      213: -835554953751915200
+    second: spaghetti_atlas_785
+  - first:
+      213: 2343822720279333089
+    second: spaghetti_atlas_786
+  - first:
+      213: 2487030263479833307
+    second: spaghetti_atlas_787
+  - first:
+      213: -719432097872504475
+    second: spaghetti_atlas_788
+  - first:
+      213: -8443466103557113032
+    second: spaghetti_atlas_789
+  - first:
+      213: 7919362091009959797
+    second: spaghetti_atlas_790
+  - first:
+      213: -5999953338312435942
+    second: spaghetti_atlas_791
+  - first:
+      213: 5613492749531675862
+    second: spaghetti_atlas_792
+  - first:
+      213: -2909562589901453864
+    second: spaghetti_atlas_793
+  - first:
+      213: 8175870483799140012
+    second: spaghetti_atlas_794
+  - first:
+      213: 231651306695502632
+    second: spaghetti_atlas_795
+  - first:
+      213: -3033897446092474788
+    second: spaghetti_atlas_796
+  - first:
+      213: -6515507097007278317
+    second: spaghetti_atlas_797
+  - first:
+      213: -9170039642062607731
+    second: spaghetti_atlas_798
+  - first:
+      213: 3511670081855345838
+    second: spaghetti_atlas_799
+  - first:
+      213: 2394555560460279622
+    second: spaghetti_atlas_800
+  - first:
+      213: 4953165656496665258
+    second: spaghetti_atlas_801
+  - first:
+      213: -7329734367150173692
+    second: spaghetti_atlas_802
+  - first:
+      213: 837762136662884654
+    second: spaghetti_atlas_803
+  - first:
+      213: -3222761717929346343
+    second: spaghetti_atlas_804
+  - first:
+      213: 9115997850083019601
+    second: spaghetti_atlas_805
+  - first:
+      213: -5612876385869803657
+    second: spaghetti_atlas_806
+  - first:
+      213: 6245144049959848497
+    second: spaghetti_atlas_807
+  - first:
+      213: -6345464252051384729
+    second: spaghetti_atlas_808
+  - first:
+      213: 1837402382423942038
+    second: spaghetti_atlas_809
+  - first:
+      213: 5380325727305925987
+    second: spaghetti_atlas_810
+  - first:
+      213: -5438989728908450457
+    second: spaghetti_atlas_811
+  - first:
+      213: 4455346829406199552
+    second: spaghetti_atlas_812
+  - first:
+      213: 5241184683122927036
+    second: spaghetti_atlas_813
+  - first:
+      213: 3744098151206314421
+    second: spaghetti_atlas_814
+  - first:
+      213: -137493260921400135
+    second: spaghetti_atlas_815
+  - first:
+      213: -5772744946134511888
+    second: spaghetti_atlas_816
+  - first:
+      213: -6088005158673401446
+    second: spaghetti_atlas_817
+  - first:
+      213: 2607422240440829251
+    second: spaghetti_atlas_818
+  - first:
+      213: 2310188828122814846
+    second: spaghetti_atlas_819
+  - first:
+      213: -5016526185653444450
+    second: spaghetti_atlas_820
+  - first:
+      213: -8830804613968261609
+    second: spaghetti_atlas_821
+  - first:
+      213: 2285585827764528324
+    second: spaghetti_atlas_822
+  - first:
+      213: 132007453094125227
+    second: spaghetti_atlas_823
+  - first:
+      213: 7538713099889226099
+    second: spaghetti_atlas_824
+  - first:
+      213: 6309237219505303343
+    second: spaghetti_atlas_825
+  - first:
+      213: 3437933188652355275
+    second: spaghetti_atlas_826
+  - first:
+      213: 4636631428615484426
+    second: spaghetti_atlas_827
+  - first:
+      213: 5667746936471293936
+    second: spaghetti_atlas_828
+  - first:
+      213: 6626878021543337219
+    second: spaghetti_atlas_829
+  - first:
+      213: -527284316710909432
+    second: spaghetti_atlas_830
+  - first:
+      213: 1804366998034509934
+    second: spaghetti_atlas_831
+  - first:
+      213: 8366271848472685197
+    second: spaghetti_atlas_832
+  - first:
+      213: 3492090620564493521
+    second: spaghetti_atlas_833
+  - first:
+      213: 7076239918829116680
+    second: spaghetti_atlas_834
+  - first:
+      213: -9126459840705734482
+    second: spaghetti_atlas_835
+  - first:
+      213: -8405480973730489135
+    second: spaghetti_atlas_836
+  - first:
+      213: -1460795532605203293
+    second: spaghetti_atlas_837
+  - first:
+      213: 8111255848170349283
+    second: spaghetti_atlas_838
+  - first:
+      213: 8726519589936687797
+    second: spaghetti_atlas_839
+  - first:
+      213: -3643803935668283660
+    second: spaghetti_atlas_840
+  - first:
+      213: -4128829672609375039
+    second: spaghetti_atlas_841
+  - first:
+      213: -4838363506734668531
+    second: spaghetti_atlas_842
+  - first:
+      213: 2077077681779832807
+    second: spaghetti_atlas_843
+  - first:
+      213: -6909234956005365554
+    second: spaghetti_atlas_844
+  - first:
+      213: -2443879218600426064
+    second: spaghetti_atlas_845
+  - first:
+      213: -8722045187815437949
+    second: spaghetti_atlas_846
+  - first:
+      213: 9175909071552608039
+    second: spaghetti_atlas_847
+  - first:
+      213: 2498298260573345902
+    second: spaghetti_atlas_848
+  - first:
+      213: -2299789525019069429
+    second: spaghetti_atlas_849
+  - first:
+      213: -5811342290674654169
+    second: spaghetti_atlas_850
+  - first:
+      213: 5477739663121908131
+    second: spaghetti_atlas_851
+  - first:
+      213: 8671181263890886346
+    second: spaghetti_atlas_852
+  - first:
+      213: 5751698390735222104
+    second: spaghetti_atlas_853
+  - first:
+      213: -1850652957659808093
+    second: spaghetti_atlas_854
+  - first:
+      213: 6806983739569374641
+    second: spaghetti_atlas_855
+  - first:
+      213: -5855446152679326203
+    second: spaghetti_atlas_856
+  - first:
+      213: 3598232337853444909
+    second: spaghetti_atlas_857
+  - first:
+      213: -296598849238638148
+    second: spaghetti_atlas_858
+  - first:
+      213: -3402729379109586372
+    second: spaghetti_atlas_859
+  - first:
+      213: -5252522819384870475
+    second: spaghetti_atlas_860
+  - first:
+      213: 4994512135852461861
+    second: spaghetti_atlas_861
+  - first:
+      213: 5639094280438171042
+    second: spaghetti_atlas_862
+  - first:
+      213: 228630548789742911
+    second: spaghetti_atlas_863
+  - first:
+      213: -8834958832095794095
+    second: spaghetti_atlas_864
+  - first:
+      213: -6088375110479131419
+    second: spaghetti_atlas_865
+  - first:
+      213: -6700213230899499734
+    second: spaghetti_atlas_866
+  - first:
+      213: 1387472462033233255
+    second: spaghetti_atlas_867
+  - first:
+      213: 1028737375895654684
+    second: spaghetti_atlas_868
+  - first:
+      213: -5732631561024301253
+    second: spaghetti_atlas_869
+  - first:
+      213: 7009034603920612932
+    second: spaghetti_atlas_870
+  - first:
+      213: 2176516394838204500
+    second: spaghetti_atlas_871
+  - first:
+      213: -2048916747684809247
+    second: spaghetti_atlas_872
+  - first:
+      213: -5151938845916654704
+    second: spaghetti_atlas_873
+  - first:
+      213: -3886450545581003282
+    second: spaghetti_atlas_874
+  - first:
+      213: -5871382825714964844
+    second: spaghetti_atlas_875
+  - first:
+      213: -9176010920619186837
+    second: spaghetti_atlas_876
+  - first:
+      213: -5694984468804557497
+    second: spaghetti_atlas_877
+  - first:
+      213: 1104381972240062940
+    second: spaghetti_atlas_878
+  - first:
+      213: -7777517202696850103
+    second: spaghetti_atlas_879
+  - first:
+      213: -5389317731307552212
+    second: spaghetti_atlas_880
+  - first:
+      213: -3999185714562005784
+    second: spaghetti_atlas_881
+  - first:
+      213: 1665148949697242758
+    second: spaghetti_atlas_882
+  - first:
+      213: -8525324654680168461
+    second: spaghetti_atlas_883
+  - first:
+      213: -7627455404550291880
+    second: spaghetti_atlas_884
+  - first:
+      213: 2785495681260078068
+    second: spaghetti_atlas_885
+  - first:
+      213: 2169969631879417184
+    second: spaghetti_atlas_886
+  - first:
+      213: 2165977528615995770
+    second: spaghetti_atlas_887
+  - first:
+      213: -5220585338595787569
+    second: spaghetti_atlas_888
+  - first:
+      213: 550438862019121611
+    second: spaghetti_atlas_889
+  - first:
+      213: 752440878971962908
+    second: spaghetti_atlas_890
+  - first:
+      213: 4507004961852568286
+    second: spaghetti_atlas_891
+  - first:
+      213: -6772149778060367833
+    second: spaghetti_atlas_892
+  - first:
+      213: 4333505810978025486
+    second: spaghetti_atlas_893
+  - first:
+      213: 2200298924508722482
+    second: spaghetti_atlas_894
+  - first:
+      213: -6056788688857673006
+    second: spaghetti_atlas_895
+  - first:
+      213: -1749679670121617033
+    second: spaghetti_atlas_896
+  - first:
+      213: -8238835153840853775
+    second: spaghetti_atlas_897
+  - first:
+      213: -366983469267081873
+    second: spaghetti_atlas_898
+  - first:
+      213: -8487603092362042322
+    second: spaghetti_atlas_899
+  - first:
+      213: -8458234268893708651
+    second: spaghetti_atlas_900
+  - first:
+      213: -6920797064454158201
+    second: spaghetti_atlas_901
+  - first:
+      213: 5590532930663967035
+    second: spaghetti_atlas_902
+  - first:
+      213: -2952863478651961437
+    second: spaghetti_atlas_903
+  - first:
+      213: -5915782021280986987
+    second: spaghetti_atlas_904
+  - first:
+      213: -4963466817918881720
+    second: spaghetti_atlas_905
+  - first:
+      213: 8848419986194366894
+    second: spaghetti_atlas_906
+  - first:
+      213: 5558529737938129153
+    second: spaghetti_atlas_907
+  - first:
+      213: -5950437748520563477
+    second: spaghetti_atlas_908
+  - first:
+      213: 3018011761968097943
+    second: spaghetti_atlas_909
+  - first:
+      213: -4404901211563740252
+    second: spaghetti_atlas_910
+  - first:
+      213: 8753235107273331271
+    second: spaghetti_atlas_911
+  - first:
+      213: -606378113483371862
+    second: spaghetti_atlas_912
+  - first:
+      213: 7483324216896419107
+    second: spaghetti_atlas_913
+  - first:
+      213: -6180913064402713066
+    second: spaghetti_atlas_914
+  - first:
+      213: -8168829691743083244
+    second: spaghetti_atlas_915
+  - first:
+      213: -4090646543197934911
+    second: spaghetti_atlas_916
+  - first:
+      213: 7981206440635835119
+    second: spaghetti_atlas_917
+  - first:
+      213: -8098700771515305896
+    second: spaghetti_atlas_918
+  - first:
+      213: 4323721874069728575
+    second: spaghetti_atlas_919
+  - first:
+      213: -1342164166618706327
+    second: spaghetti_atlas_920
+  - first:
+      213: 4483621041969784353
+    second: spaghetti_atlas_921
+  - first:
+      213: -4852969877745848771
+    second: spaghetti_atlas_922
+  - first:
+      213: 3314438763797127327
+    second: spaghetti_atlas_923
+  - first:
+      213: 2683192233012735241
+    second: spaghetti_atlas_924
+  - first:
+      213: 5472940910980829447
+    second: spaghetti_atlas_925
+  - first:
+      213: 1984241601989222365
+    second: spaghetti_atlas_926
+  - first:
+      213: 7142626078904249754
+    second: spaghetti_atlas_927
+  - first:
+      213: -5631967136541788131
+    second: spaghetti_atlas_928
+  - first:
+      213: 4238785762779026803
+    second: spaghetti_atlas_929
+  - first:
+      213: -7173831585347754972
+    second: spaghetti_atlas_930
+  - first:
+      213: -4291522077025063043
+    second: spaghetti_atlas_931
+  - first:
+      213: 2212418707156009597
+    second: spaghetti_atlas_932
+  - first:
+      213: 4329253308625914040
+    second: spaghetti_atlas_933
+  - first:
+      213: -9193187765611846013
+    second: spaghetti_atlas_934
+  - first:
+      213: -4648329155065056921
+    second: spaghetti_atlas_935
+  - first:
+      213: 4116329748797716136
+    second: spaghetti_atlas_936
+  - first:
+      213: 7808041350326346440
+    second: spaghetti_atlas_937
+  - first:
+      213: -4548278389091968985
+    second: spaghetti_atlas_938
+  - first:
+      213: 7103246632464599196
+    second: spaghetti_atlas_939
+  - first:
+      213: -5879351145113990651
+    second: spaghetti_atlas_940
+  - first:
+      213: 7527560072407583585
+    second: spaghetti_atlas_941
+  - first:
+      213: 4757296111394652732
+    second: spaghetti_atlas_942
+  - first:
+      213: 876234451828057112
+    second: spaghetti_atlas_943
+  - first:
+      213: 878271114001256522
+    second: spaghetti_atlas_944
+  - first:
+      213: 2815260520922238245
+    second: spaghetti_atlas_945
+  - first:
+      213: 6447823826592844315
+    second: spaghetti_atlas_946
+  - first:
+      213: -826820813741537103
+    second: spaghetti_atlas_947
+  - first:
+      213: -2692813461679390254
+    second: spaghetti_atlas_948
+  - first:
+      213: -3508924333245699474
+    second: spaghetti_atlas_949
+  - first:
+      213: 8711585984022118153
+    second: spaghetti_atlas_950
+  - first:
+      213: 8207971803582892626
+    second: spaghetti_atlas_951
+  - first:
+      213: -9025673551627606445
+    second: spaghetti_atlas_952
+  - first:
+      213: 8949846944963008962
+    second: spaghetti_atlas_953
+  - first:
+      213: 3488702654188933585
+    second: spaghetti_atlas_954
+  - first:
+      213: 6434570987529543017
+    second: spaghetti_atlas_955
+  - first:
+      213: -1661618346981010960
+    second: spaghetti_atlas_956
+  - first:
+      213: 5244796955417884856
+    second: spaghetti_atlas_957
+  - first:
+      213: -3153458809896473295
+    second: spaghetti_atlas_958
+  - first:
+      213: -1532806087736220258
+    second: spaghetti_atlas_959
+  - first:
+      213: -662802082385549506
+    second: spaghetti_atlas_960
+  - first:
+      213: 6193513742300801016
+    second: spaghetti_atlas_961
+  - first:
+      213: -6848110165417309724
+    second: spaghetti_atlas_962
+  - first:
+      213: -3363869520334453835
+    second: spaghetti_atlas_963
+  - first:
+      213: 7118775761996425738
+    second: spaghetti_atlas_964
+  - first:
+      213: 6356278798200227677
+    second: spaghetti_atlas_965
+  - first:
+      213: -5335445228208013814
+    second: spaghetti_atlas_966
+  - first:
+      213: -6765869240155774748
+    second: spaghetti_atlas_967
+  - first:
+      213: -5672204740325263896
+    second: spaghetti_atlas_968
+  - first:
+      213: -5566239749475954115
+    second: spaghetti_atlas_969
+  - first:
+      213: -1714746724951674344
+    second: spaghetti_atlas_970
+  - first:
+      213: 1711194233853502050
+    second: spaghetti_atlas_971
+  - first:
+      213: -5861529356965893130
+    second: spaghetti_atlas_972
+  - first:
+      213: -6142853091524165235
+    second: spaghetti_atlas_973
+  - first:
+      213: 599280970463204209
+    second: spaghetti_atlas_974
+  - first:
+      213: -820791862441955
+    second: spaghetti_atlas_975
+  - first:
+      213: -5793423905964525578
+    second: spaghetti_atlas_976
+  - first:
+      213: -2516356779646491720
+    second: spaghetti_atlas_977
+  - first:
+      213: 987757211046671433
+    second: spaghetti_atlas_978
+  - first:
+      213: 7849244949553901623
+    second: spaghetti_atlas_979
+  - first:
+      213: -7013865611741124192
+    second: spaghetti_atlas_980
+  - first:
+      213: 4747407654503824561
+    second: spaghetti_atlas_981
+  - first:
+      213: 4375255208800771067
+    second: spaghetti_atlas_982
+  - first:
+      213: 9126145263492926859
+    second: spaghetti_atlas_983
+  - first:
+      213: 7688483560062496082
+    second: spaghetti_atlas_984
+  - first:
+      213: 9174726634991227247
+    second: spaghetti_atlas_985
+  - first:
+      213: 8913650325120479238
+    second: spaghetti_atlas_986
+  - first:
+      213: 6855898210136654981
+    second: spaghetti_atlas_987
+  - first:
+      213: -5707006265837014131
+    second: spaghetti_atlas_988
+  - first:
+      213: -8337959005875775532
+    second: spaghetti_atlas_989
+  - first:
+      213: -528879335954685518
+    second: spaghetti_atlas_990
+  - first:
+      213: 2678651346887039197
+    second: spaghetti_atlas_991
+  - first:
+      213: 3139190099185491982
+    second: spaghetti_atlas_992
+  - first:
+      213: -249183736400571308
+    second: spaghetti_atlas_993
+  - first:
+      213: 6544968653043605672
+    second: spaghetti_atlas_994
+  - first:
+      213: 5185039889153149727
+    second: spaghetti_atlas_995
+  - first:
+      213: 3828890659550300702
+    second: spaghetti_atlas_996
+  - first:
+      213: 2510566580363663993
+    second: spaghetti_atlas_997
+  - first:
+      213: -7791421191119825146
+    second: spaghetti_atlas_998
+  - first:
+      213: 1776517555989897219
+    second: spaghetti_atlas_999
+  - first:
+      213: 7639432170765292689
+    second: spaghetti_atlas_1000
+  - first:
+      213: -4800273015698717939
+    second: spaghetti_atlas_1001
+  - first:
+      213: 8594074651052440747
+    second: spaghetti_atlas_1002
+  - first:
+      213: 2597609687117447476
+    second: spaghetti_atlas_1003
+  - first:
+      213: 9132658476928330784
+    second: spaghetti_atlas_48
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spaghetti_atlas_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1198
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4779fe71b73cbf0800000000000000
+      internalID: -305265006996917045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_97
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1198
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ac2ebcb06d1e580800000000000000
+      internalID: -8799516850751616474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_98
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1198
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3304848422c9550f0800000000000000
+      internalID: -1128824460530925517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_99
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1198
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdc2642734eebf50800000000000000
+      internalID: 6899202604662967746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_100
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1198
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbd6d4c7afd76f90800000000000000
+      internalID: -6960348787422864445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_101
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1198
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6c8c4a836f0fcf0800000000000000
+      internalID: -220405658597931309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_102
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1198
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3b28544760157f0800000000000000
+      internalID: -625711776775621718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_103
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1198
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c789ff6f89933e40800000000000000
+      internalID: 5635016400108619720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_104
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1198
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d16a873ab37841c0800000000000000
+      internalID: -4519234982433365547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_105
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1198
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7031a8897d76d0220800000000000000
+      internalID: 2453731547661603591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_106
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1198
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f469a6fe0975bf00800000000000000
+      internalID: 1131943986528347377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_107
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1198
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a138ddd993774ed70800000000000000
+      internalID: 9071506638776402714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_108
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1198
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d37efff14997fe90800000000000000
+      internalID: -6991951387722615853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_109
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1198
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d2eb6c001292cc0800000000000000
+      internalID: -3735418128709046889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_110
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1198
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984d8f6b3c24318b0800000000000000
+      internalID: -5182725337817492343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_111
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 1198
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee25302924d09b90800000000000000
+      internalID: -7237051328085283103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_112
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1198
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0994f5ff8de3d7ec0800000000000000
+      internalID: -3567626228089271920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_113
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1198
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147e9c23f15e91740800000000000000
+      internalID: 5123377973269489473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_114
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1198
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e3856332cdbaf10800000000000000
+      internalID: 2282159679987007071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_115
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 1198
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6191c9240806ef0800000000000000
+      internalID: -116952566736546139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_116
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1198
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9656346a0d051f10800000000000000
+      internalID: 2239710727968806557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_117
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 1198
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5d758f3f6d0b690800000000000000
+      internalID: -7588329028787382874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_118
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 1198
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74afa676801154b90800000000000000
+      internalID: -7258376496645211577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_119
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 1198
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93badd0711b09510800000000000000
+      internalID: 1553936584017621918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1028
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b15ddaac4735ba20800000000000000
+      internalID: 3077426722801275316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_121
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1028
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4291130ab8dd9880800000000000000
+      internalID: -8602481419780779443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_122
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1028
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df63f5b5ee56f360800000000000000
+      internalID: 7203048994718838738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_123
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1028
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719684038bde39b00800000000000000
+      internalID: 834271731333490967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_124
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1028
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a602c04c5aef16d50800000000000000
+      internalID: 6728939306180419690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_125
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1028
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5b2819e076f3140800000000000000
+      internalID: 4701589848266552802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_126
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1028
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd99983c386d3a0a0800000000000000
+      internalID: -6871412745027610147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_127
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1028
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d2757baca9f2ea0800000000000000
+      internalID: -5895323191754674915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_128
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1028
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdcfa43e54348440800000000000000
+      internalID: 4937128670720413172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_129
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1028
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bdbb4844c15c170800000000000000
+      internalID: 8197989777308113681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_130
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1028
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db1333992b1e7860800000000000000
+      internalID: 7529485492387257302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_131
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1028
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfde114cfbf9f6030800000000000000
+      internalID: 3490183882212503036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_132
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1028
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4716dd0f00fbc6ba0800000000000000
+      internalID: -6094286184977178252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_133
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1028
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350063c07048d1030800000000000000
+      internalID: 3467072453949653075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_134
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1028
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a02f000c5c2add0800000000000000
+      internalID: -2476199416660096377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_135
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 1028
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f688b177d31d53040800000000000000
+      internalID: 4626834254114556015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_136
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1028
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b806c5fac49f2de30800000000000000
+      internalID: 4526954683215667339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_137
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1028
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a82ca071a0b8fb0800000000000000
+      internalID: -4644607496621487565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_138
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1028
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0225265f078d142c0800000000000000
+      internalID: -4449036977200541152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_139
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 1028
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09ee908058a69af0800000000000000
+      internalID: -389939254012221172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_140
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1028
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2307f9c29284462f0800000000000000
+      internalID: -980579477180420046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_141
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 1028
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce796ba331be928e0800000000000000
+      internalID: -1717583315043182612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_142
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 1028
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedefb6abe32ebc00800000000000000
+      internalID: 918210869052042734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_143
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 1028
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ebffd7fb0354d70800000000000000
+      internalID: 9026674627144826490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 858
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e12e7de58b779350800000000000000
+      internalID: 6023418841776660961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_145
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 858
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fde910050295bbb0800000000000000
+      internalID: -4920866467658207756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_146
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 858
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302c8d01fbaf08730800000000000000
+      internalID: 3999472167633338883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_147
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 858
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816e6e16077f949a0800000000000000
+      internalID: -6248190945948932584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_148
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 858
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bc3d04c7e9a6af0800000000000000
+      internalID: -402334960195482852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_149
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 858
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a38665f011344c0800000000000000
+      internalID: -4304578061264209350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_150
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 858
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b4fd1eb8ef20e30800000000000000
+      internalID: 4468413657048369997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_151
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 858
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615d0abf46099cb30800000000000000
+      internalID: 4308133281949340950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_152
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 858
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a375794d73894320800000000000000
+      internalID: 2542708038753940391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_153
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 858
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6dc9f7ada6af3b0800000000000000
+      internalID: -5477948510066387271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_154
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 858
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99578011c651196e0800000000000000
+      internalID: -1832660019476662887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_155
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 858
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d005e551a3810870800000000000000
+      internalID: 8647337488482107606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_156
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 858
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1c8e065aa7e1a70800000000000000
+      internalID: 8799605572642587116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_157
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 858
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71311b92fcd094910800000000000000
+      internalID: 1822002707656938263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_158
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 858
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa716530ba9d371d0800000000000000
+      internalID: -3354097968942278742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_159
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 858
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d41eaf770c3168c0800000000000000
+      internalID: -4007856190478478128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_160
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 858
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158bfebd7cecd2090800000000000000
+      internalID: -8057556800512214959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_161
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 858
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b43b7d9b50dee6d0800000000000000
+      internalID: -2959198813233138510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_162
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 858
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5047c8716eb89d0800000000000000
+      internalID: -2770868156901358128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_163
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 858
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3799ea5c7a28e85b0800000000000000
+      internalID: -5364206449063978637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_164
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 858
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368f5a303db05e440800000000000000
+      internalID: 4964387165173053539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_165
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 858
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac713111e9f5fd770800000000000000
+      internalID: 8637727742815836106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_166
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 858
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3cacc205e01f20e0800000000000000
+      internalID: -2292595109527770054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_167
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 858
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0140370e754fbf00800000000000000
+      internalID: 1134702038709453069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 688
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb915c2be054434a0800000000000000
+      internalID: -6614586023269295684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_169
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 688
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2dd3a6330b1c7e0800000000000000
+      internalID: -1746921445570784541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_170
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 688
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b114925e26531900800000000000000
+      internalID: 653961127852773816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_171
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 688
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc7c4d34331bd480800000000000000
+      internalID: -8873477525715780422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_172
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 688
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c85a9dc05ae5b8e0800000000000000
+      internalID: -1678177653357913911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_173
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 688
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6c54f6f5e05e8c0800000000000000
+      internalID: -3970751693405698336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_174
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 688
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8784bdbc2b3889b0800000000000000
+      internalID: -5077743516512909427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_175
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 688
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8792105bb3155fe0800000000000000
+      internalID: -1201032030401161329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_176
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 688
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2785b183e20d7340800000000000000
+      internalID: 4863046348786992941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_177
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 688
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fcf0b2396f5a610800000000000000
+      internalID: 1631981551934754563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_178
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 688
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2665d8def6a27e6c0800000000000000
+      internalID: -4114273074364459422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_179
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 688
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5071f1098b6b8df20800000000000000
+      internalID: 3447706418560308997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_180
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 688
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4577e58c470068950800000000000000
+      internalID: 6450844017832654676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_181
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 688
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05761417c7c3dad00800000000000000
+      internalID: 985510398637729616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_182
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 688
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2fd117075d1fee0800000000000000
+      internalID: -1228966544384593224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_183
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 688
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29adad34ce6d20220800000000000000
+      internalID: 2450757457482013330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_184
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 688
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cb4a96f6340ce00800000000000000
+      internalID: 1062923657852271696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_185
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 688
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc1eb02d8c849cd0800000000000000
+      internalID: -2552260551044621060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_186
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 688
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f5364783b13b7e0800000000000000
+      internalID: -1751025900832202986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_187
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 688
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2415eeed29d457550800000000000000
+      internalID: 6157913358699745602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_188
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 688
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c079a47237c3bce0800000000000000
+      internalID: -1390548840407797562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_189
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 688
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bb175a364558ed0800000000000000
+      internalID: -2412429238432842988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_190
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 688
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a4b4e6b3dd0bba0800000000000000
+      internalID: -6075112649999562105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_191
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 688
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6603338dacc91e0800000000000000
+      internalID: -2189652288888346921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_256
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 178
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb788cb9eff95dba0800000000000000
+      internalID: -6064765407300384834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_257
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 178
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6754d400fa3e9ef30800000000000000
+      internalID: 4605462434726888822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_258
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 178
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6944121a5d4cf95c0800000000000000
+      internalID: -4206427105130363754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_259
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 178
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d905927b5d703a0800000000000000
+      internalID: -6699150938041442980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_260
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 178
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1ae32f326c4ffa0800000000000000
+      internalID: -5767767365064416777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_261
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 178
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c121bc41372504cf0800000000000000
+      internalID: -270125323418660324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_262
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 178
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a568db6a4f52ea430800000000000000
+      internalID: 3796013268619593306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_263
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 178
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ec84ae4afaa9650800000000000000
+      internalID: 6240493356515380867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_264
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c9025ce60a55b60800000000000000
+      internalID: 7734264332692790363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_265
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 8
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d95cd771ef403500800000000000000
+      internalID: 373886598868916690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_266
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 8
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe444d48fbf85260800000000000000
+      internalID: 7086691057534258937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_267
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 8
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5459d783bc720e7a0800000000000000
+      internalID: -6350031720812800699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_268
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 8
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b944ccb4873d57ae0800000000000000
+      internalID: -1552101982938053477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_269
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 8
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63ec2965b397b070800000000000000
+      internalID: 8122122860348892013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_270
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 8
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75068f063ff4e7ab0800000000000000
+      internalID: -5008477828866875305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_atlas_271
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 8
+        width: 85
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa50f550be5ad4b0800000000000000
+      internalID: -5414911490510529877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

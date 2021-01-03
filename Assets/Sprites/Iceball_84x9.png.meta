@@ -1,0 +1,1784 @@
+fileFormatVersion: 2
+guid: 3ca1036a1f598d74baf476d2b53bb519
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8090755646646903831
+    second: Iceball_84x9_0
+  - first:
+      213: -2903369307332998358
+    second: Iceball_84x9_1
+  - first:
+      213: 1339184271287142463
+    second: Iceball_84x9_2
+  - first:
+      213: -7892323899889783781
+    second: Iceball_84x9_3
+  - first:
+      213: -1077433362195362456
+    second: Iceball_84x9_4
+  - first:
+      213: -5695079522813075098
+    second: Iceball_84x9_5
+  - first:
+      213: 1369524033546782303
+    second: Iceball_84x9_6
+  - first:
+      213: -987966222454521040
+    second: Iceball_84x9_7
+  - first:
+      213: -8944855993423051943
+    second: Iceball_84x9_8
+  - first:
+      213: 8157970740118647364
+    second: Iceball_84x9_9
+  - first:
+      213: 3033392348762568027
+    second: Iceball_84x9_10
+  - first:
+      213: -7540714052799649529
+    second: Iceball_84x9_11
+  - first:
+      213: -2028679238355279970
+    second: Iceball_84x9_12
+  - first:
+      213: 3537162282086611849
+    second: Iceball_84x9_13
+  - first:
+      213: 3212902144265223294
+    second: Iceball_84x9_14
+  - first:
+      213: 5478153107100820066
+    second: Iceball_84x9_15
+  - first:
+      213: -3427741216518061892
+    second: Iceball_84x9_16
+  - first:
+      213: -1007792820083128898
+    second: Iceball_84x9_17
+  - first:
+      213: -2644981831673658773
+    second: Iceball_84x9_18
+  - first:
+      213: 5953722894676912897
+    second: Iceball_84x9_19
+  - first:
+      213: -6760635384881624474
+    second: Iceball_84x9_20
+  - first:
+      213: -18354234234109541
+    second: Iceball_84x9_21
+  - first:
+      213: 2510666283316988763
+    second: Iceball_84x9_22
+  - first:
+      213: 1424800526325011860
+    second: Iceball_84x9_23
+  - first:
+      213: 2120679629153186776
+    second: Iceball_84x9_24
+  - first:
+      213: 5312840031356369868
+    second: Iceball_84x9_25
+  - first:
+      213: -4565399250552764820
+    second: Iceball_84x9_26
+  - first:
+      213: 7297893721850226286
+    second: Iceball_84x9_27
+  - first:
+      213: 6763031540850714495
+    second: Iceball_84x9_28
+  - first:
+      213: -3431836041009624241
+    second: Iceball_84x9_29
+  - first:
+      213: -2977283650050113829
+    second: Iceball_84x9_30
+  - first:
+      213: 5675569325540297904
+    second: Iceball_84x9_31
+  - first:
+      213: 1844046478652538472
+    second: Iceball_84x9_32
+  - first:
+      213: 329285902214150337
+    second: Iceball_84x9_33
+  - first:
+      213: -8437062426296839398
+    second: Iceball_84x9_34
+  - first:
+      213: 3290041852957327500
+    second: Iceball_84x9_35
+  - first:
+      213: -8442655869171161021
+    second: Iceball_84x9_36
+  - first:
+      213: -3331178123032383063
+    second: Iceball_84x9_37
+  - first:
+      213: -4414126251663719571
+    second: Iceball_84x9_38
+  - first:
+      213: -3688174199725465063
+    second: Iceball_84x9_39
+  - first:
+      213: 6053170251740947855
+    second: Iceball_84x9_40
+  - first:
+      213: 3416957645756232628
+    second: Iceball_84x9_41
+  - first:
+      213: 7009145454631970149
+    second: Iceball_84x9_42
+  - first:
+      213: -3600292577407919668
+    second: Iceball_84x9_43
+  - first:
+      213: 3037717682270452201
+    second: Iceball_84x9_44
+  - first:
+      213: 7886881122754873455
+    second: Iceball_84x9_45
+  - first:
+      213: 4429068180755728953
+    second: Iceball_84x9_46
+  - first:
+      213: -3475040434238209082
+    second: Iceball_84x9_47
+  - first:
+      213: -5613739709781781051
+    second: Iceball_84x9_48
+  - first:
+      213: -3356576275395098022
+    second: Iceball_84x9_49
+  - first:
+      213: 4181188591965127524
+    second: Iceball_84x9_50
+  - first:
+      213: 533149437534739433
+    second: Iceball_84x9_51
+  - first:
+      213: -6341990936010402454
+    second: Iceball_84x9_52
+  - first:
+      213: -7192927337639783927
+    second: Iceball_84x9_53
+  - first:
+      213: -5005966533713557657
+    second: Iceball_84x9_54
+  - first:
+      213: 3430957958786001643
+    second: Iceball_84x9_55
+  - first:
+      213: 281122530303046595
+    second: Iceball_84x9_56
+  - first:
+      213: 957021285445554875
+    second: Iceball_84x9_57
+  - first:
+      213: 9203560088679483432
+    second: Iceball_84x9_58
+  - first:
+      213: 1458264328280244352
+    second: Iceball_84x9_59
+  - first:
+      213: -7528801318132452534
+    second: Iceball_84x9_60
+  - first:
+      213: -8045749846300493435
+    second: Iceball_84x9_61
+  - first:
+      213: 8984192256584919645
+    second: Iceball_84x9_62
+  - first:
+      213: 2110293384077684929
+    second: Iceball_84x9_63
+  - first:
+      213: -5484446577859690480
+    second: Iceball_84x9_64
+  - first:
+      213: -5015876444864047228
+    second: Iceball_84x9_65
+  - first:
+      213: 1310355090032278944
+    second: Iceball_84x9_66
+  - first:
+      213: -4781518597891226374
+    second: Iceball_84x9_67
+  - first:
+      213: 3335543468558250902
+    second: Iceball_84x9_68
+  - first:
+      213: 8250465320840128768
+    second: Iceball_84x9_69
+  - first:
+      213: 1262721563048051075
+    second: Iceball_84x9_70
+  - first:
+      213: -8128091930059673012
+    second: Iceball_84x9_71
+  - first:
+      213: -1554604221700751619
+    second: Iceball_84x9_0
+  - first:
+      213: 5378397586268504460
+    second: Iceball_84x9_1
+  - first:
+      213: -406792809902130290
+    second: Iceball_84x9_2
+  - first:
+      213: -4999939049064391220
+    second: Iceball_84x9_3
+  - first:
+      213: 1630368776766028644
+    second: Iceball_84x9_4
+  - first:
+      213: 5099337248047611045
+    second: Iceball_84x9_5
+  - first:
+      213: 2287019689751796982
+    second: Iceball_84x9_6
+  - first:
+      213: -3673109422377893127
+    second: Iceball_84x9_7
+  - first:
+      213: -2584804573905632008
+    second: Iceball_84x9_8
+  - first:
+      213: -3294940425081989605
+    second: Iceball_84x9_9
+  - first:
+      213: 2921490081931771574
+    second: Iceball_84x9_10
+  - first:
+      213: 4677169354080600976
+    second: Iceball_84x9_11
+  - first:
+      213: -155992555929467094
+    second: Iceball_84x9_12
+  - first:
+      213: 4262629406646140328
+    second: Iceball_84x9_13
+  - first:
+      213: 2262634008766101141
+    second: Iceball_84x9_14
+  - first:
+      213: 5847540204078686908
+    second: Iceball_84x9_15
+  - first:
+      213: 2821398863360602673
+    second: Iceball_84x9_16
+  - first:
+      213: 4987676236711547015
+    second: Iceball_84x9_17
+  - first:
+      213: 5808761236271242090
+    second: Iceball_84x9_18
+  - first:
+      213: 931964922647827203
+    second: Iceball_84x9_19
+  - first:
+      213: -863923533442628075
+    second: Iceball_84x9_20
+  - first:
+      213: -7487329945395486152
+    second: Iceball_84x9_21
+  - first:
+      213: 1646406869465079061
+    second: Iceball_84x9_22
+  - first:
+      213: 6867039015116307663
+    second: Iceball_84x9_23
+  - first:
+      213: -2322519587527956334
+    second: Iceball_84x9_24
+  - first:
+      213: -6401306680623353600
+    second: Iceball_84x9_25
+  - first:
+      213: -1527251316593931917
+    second: Iceball_84x9_26
+  - first:
+      213: -6237205438065687568
+    second: Iceball_84x9_27
+  - first:
+      213: -2478234231924476961
+    second: Iceball_84x9_28
+  - first:
+      213: 1645945595123788216
+    second: Iceball_84x9_29
+  - first:
+      213: -323947541123167724
+    second: Iceball_84x9_30
+  - first:
+      213: 6311166465213862904
+    second: Iceball_84x9_31
+  - first:
+      213: 8811851856444613316
+    second: Iceball_84x9_32
+  - first:
+      213: -8435312453468240017
+    second: Iceball_84x9_33
+  - first:
+      213: -8669234618412890655
+    second: Iceball_84x9_34
+  - first:
+      213: 6190671656955012559
+    second: Iceball_84x9_35
+  - first:
+      213: 6817178428616178147
+    second: Iceball_84x9_36
+  - first:
+      213: -8368364612566424528
+    second: Iceball_84x9_37
+  - first:
+      213: 3679265343351917626
+    second: Iceball_84x9_38
+  - first:
+      213: 4277172854318319710
+    second: Iceball_84x9_39
+  - first:
+      213: -5380274090644928874
+    second: Iceball_84x9_40
+  - first:
+      213: -4187294058579469606
+    second: Iceball_84x9_41
+  - first:
+      213: 5282952001986483681
+    second: Iceball_84x9_42
+  - first:
+      213: 6165089505193777515
+    second: Iceball_84x9_43
+  - first:
+      213: 5949329772921449281
+    second: Iceball_84x9_44
+  - first:
+      213: 2821671628970084585
+    second: Iceball_84x9_45
+  - first:
+      213: 1126682670984727110
+    second: Iceball_84x9_46
+  - first:
+      213: 8545234041703837975
+    second: Iceball_84x9_47
+  - first:
+      213: -2935646576630771398
+    second: Iceball_84x9_48
+  - first:
+      213: -5640729192454948149
+    second: Iceball_84x9_49
+  - first:
+      213: -5923838739148952205
+    second: Iceball_84x9_50
+  - first:
+      213: 6394564768992865935
+    second: Iceball_84x9_51
+  - first:
+      213: -4718640647902300328
+    second: Iceball_84x9_52
+  - first:
+      213: -3459188431542980311
+    second: Iceball_84x9_53
+  - first:
+      213: -2404371863208519930
+    second: Iceball_84x9_54
+  - first:
+      213: 5772152209994709559
+    second: Iceball_84x9_55
+  - first:
+      213: -4679663554568623093
+    second: Iceball_84x9_56
+  - first:
+      213: -4451588483662848842
+    second: Iceball_84x9_57
+  - first:
+      213: 7638400930100262323
+    second: Iceball_84x9_58
+  - first:
+      213: 2321250686657106081
+    second: Iceball_84x9_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Iceball_84x9_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe343f62bfec6ae0800000000000000
+      internalID: -1554604221700751619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 54
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c814a56db18e3aa40800000000000000
+      internalID: 5378397586268504460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 54
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bb99c3818ca5af0800000000000000
+      internalID: -406792809902130290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_3
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 54
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd99e9fce5ac9ab0800000000000000
+      internalID: -4999939049064391220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_4
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 54
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bf600b3cb30a610800000000000000
+      internalID: 1630368776766028644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_5
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 54
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acbbcba53c74c640800000000000000
+      internalID: 5099337248047611045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_6
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 54
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcdaf96a402dbf10800000000000000
+      internalID: 2287019689751796982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_7
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 54
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2860af07e760dc0800000000000000
+      internalID: -3673109422377893127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_8
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 54
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4cc865fede02cd0800000000000000
+      internalID: -2584804573905632008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_9
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 54
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16d9e604250642d0800000000000000
+      internalID: -3294940425081989605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bebe5430c73b8820800000000000000
+      internalID: 2921490081931771574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_11
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 45
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09341503fb4a8e040800000000000000
+      internalID: 4677169354080600976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_12
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 45
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27083cc89dc5ddf0800000000000000
+      internalID: -155992555929467094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_13
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 45
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8adf6486cd6e72b30800000000000000
+      internalID: 4262629406646140328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_14
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 45
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596b83d94ad766f10800000000000000
+      internalID: 2262634008766101141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_15
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 45
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2ece185d2a62150800000000000000
+      internalID: 5847540204078686908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_16
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 45
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132bc4c515f972720800000000000000
+      internalID: 2821398863360602673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_17
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 45
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78059d78c19c73540800000000000000
+      internalID: 4987676236711547015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_18
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 45
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b9109719ddc9050800000000000000
+      internalID: 5808761236271242090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_19
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 45
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3035c8dc8210fec00800000000000000
+      internalID: 931964922647827203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5164d04af1ab204f0800000000000000
+      internalID: -863923533442628075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_21
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 36
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832ae809519a71890800000000000000
+      internalID: -7487329945395486152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_22
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 36
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d9a32235639d610800000000000000
+      internalID: 1646406869465079061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_23
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 36
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc71c2e99f9c4f50800000000000000
+      internalID: 6867039015116307663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_24
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 36
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29862898db0c4cfd0800000000000000
+      internalID: -2322519587527956334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_25
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 36
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0013c135d7df927a0800000000000000
+      internalID: -6401306680623353600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_26
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 36
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379cbafe40d1ecae0800000000000000
+      internalID: -1527251316593931917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_27
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 36
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3c5f043bef079a0800000000000000
+      internalID: -6237205438065687568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_28
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 36
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3bde7a81b8b9dd0800000000000000
+      internalID: -2478234231924476961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_29
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 36
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9e8f45cc297d610800000000000000
+      internalID: 1645945595123788216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a0e7d7d6b118bf0800000000000000
+      internalID: -323947541123167724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_31
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 27
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f31e6d4674c59750800000000000000
+      internalID: 6311166465213862904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_32
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 27
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c26fb4839cf94a70800000000000000
+      internalID: 8811851856444613316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_33
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 27
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67c8990400cfea80800000000000000
+      internalID: -8435312453468240017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_34
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 27
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e50bfecb01b0b780800000000000000
+      internalID: -8669234618412890655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_35
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 27
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5e1e9821fa9e550800000000000000
+      internalID: 6190671656955012559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_36
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 27
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e97f1079ab7b9e50800000000000000
+      internalID: 6817178428616178147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_37
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 27
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034670de8b89ddb80800000000000000
+      internalID: -8368364612566424528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_38
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 27
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c85e016506f0330800000000000000
+      internalID: 3679265343351917626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_39
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 27
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e584690bc029b5b30800000000000000
+      internalID: 4277172854318319710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6960fd0783d6555b0800000000000000
+      internalID: -5380274090644928874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_41
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 18
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada544c2d3eb3e5c0800000000000000
+      internalID: -4187294058579469606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_42
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 18
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5d7d30bd0d05940800000000000000
+      internalID: 5282952001986483681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_43
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 18
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69509dad3cce8550800000000000000
+      internalID: 6165089505193777515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_44
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 18
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b63a658e3409250800000000000000
+      internalID: 5949329772921449281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_45
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 18
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e84f8d8567982720800000000000000
+      internalID: 2821671628970084585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_46
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 18
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a02aa7be7c2af00800000000000000
+      internalID: 1126682670984727110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_47
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 18
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711355a1615c69670800000000000000
+      internalID: 8545234041703837975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_48
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 18
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31d4d50efc7247d0800000000000000
+      internalID: -2935646576630771398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_49
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 18
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcafb817faa18b1b0800000000000000
+      internalID: -5640729192454948149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d24567d0c4acda0800000000000000
+      internalID: -5923838739148952205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_51
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 9
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e2c0d07ce0eb850800000000000000
+      internalID: 6394564768992865935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_52
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 9
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8577017c455048eb0800000000000000
+      internalID: -4718640647902300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_53
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 9
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9217db6f27e7effc0800000000000000
+      internalID: -3459188431542980311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_54
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 9
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60713818784f1aed0800000000000000
+      internalID: -2404371863208519930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_55
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 9
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a78325addca1050800000000000000
+      internalID: 5772152209994709559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_56
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 9
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c68918ace7e0fb0800000000000000
+      internalID: -4679663554568623093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_57
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 9
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc5e011cd7c832c0800000000000000
+      internalID: -4451588483662848842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_58
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 9
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5b3aa0d2d010a60800000000000000
+      internalID: 7638400930100262323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_59
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 9
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a014d4733db63020800000000000000
+      internalID: 2321250686657106081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
